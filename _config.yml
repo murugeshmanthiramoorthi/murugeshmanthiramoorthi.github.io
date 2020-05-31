@@ -1,22 +1,27 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Murugesh
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Murugesh Manthiramoorthi
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects: "projects"
+  Blog: "blog"
+  Accomplishments: "accomplishments"
+  Other links:
+   - Skills: "skills"
+   - Community: "community"
+   - Certifications: "certifications"
+
+paginate_path: "/blog/page:num/"
 
 # --- Logo --- #
 
@@ -38,7 +43,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
+  email: "murugesh2401@gmail.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
