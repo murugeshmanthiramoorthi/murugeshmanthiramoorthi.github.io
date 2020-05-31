@@ -2,7 +2,7 @@
 layout: page
 title: Accomplishments
 subtitle: "Achievemnets differ us from others"
-cover-img: '/assets/img/cover/accomplishments.jpg'
+cover-img: '/assets/img/cover/accomplishments.jpg' : "Best Outgoing Student"
 use-site-title: false
 css: "assets/css/aboutme.css"
 ---
