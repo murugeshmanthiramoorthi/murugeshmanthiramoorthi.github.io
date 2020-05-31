@@ -10,7 +10,7 @@ title: My skills Now
 |:----------:|:-------------:|
 | NLP |  left-aligned |
 | Data Visualizatio |    centered   |
-| Statistics | right-aligned |</div>
+| Statistics | right-aligned |
 
 </center>
 ---
