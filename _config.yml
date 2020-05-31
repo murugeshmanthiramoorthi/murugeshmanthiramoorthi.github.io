@@ -124,10 +124,10 @@ gtm: "GTM-W6LTJNT"
 # --- Comments --- #
 
 # To use Disqus comments, sign up to https://disqus.com and fill in your Disqus shortname (NOT the userid)
-#disqus: ""
+disqus: "Murugesh Manthiramoorthi"
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "269921397466093"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
