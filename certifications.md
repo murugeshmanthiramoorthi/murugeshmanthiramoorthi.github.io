@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Certifications
-subtitle: "The virtual proof"
-css: "assets/css/aboutme.css"
+subtitle: "MOOC Lover"
+
 ---
 
 ## SPECIALIZATION
