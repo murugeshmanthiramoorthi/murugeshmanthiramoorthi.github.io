@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About me
+cover-img: '/assets/img/cover/aboutme.jpg'
+use-site-title: false
 ---
 
 >*I am a self-motivated and self-taught continuous learner with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.*
