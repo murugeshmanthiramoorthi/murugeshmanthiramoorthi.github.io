@@ -7,8 +7,8 @@ title: My skills Now
 
 | Skill             | Experience    |
 |:-----------------:|:-------------:|
-|          NLP      |  <p style='color:red'>Master</p> |
-| Data Visualizatio |    <font color="red">Master</font>   |
+|          NLP      | <b style='color:red'>Master</b> |
+| Data Visualizatio | <b style='color:red'>Master</b> |
 | Statistics        | <b style='color:red'>Master</b> |
 
 ---
