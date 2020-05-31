@@ -12,3 +12,5 @@ title: My skills Now
 | Statistics | right-aligned |
 
 ---
+
+<a href="Intended hyperlink">![Name of image](/assets/img/profile.jpg)</a>
