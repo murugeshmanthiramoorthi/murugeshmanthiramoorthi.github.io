@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Skills
-subtitle: Things I have learnt and have been learning.
+subtitle: Things I have learnt and still learning. Striving steadily to become a grandmaster of all these categories.
 
 ---
 
@@ -9,7 +9,7 @@ subtitle: Things I have learnt and have been learning.
 
 ---
 
-| Language                       | Level             |
+| Language      | Performance Tiers                  |
 |:-------------:|:----------------------------------:|
 | தமிழ்          | <b style='color:red'>Master</b>    |
 | English       | <b style='color:red'>Master</b>    |
