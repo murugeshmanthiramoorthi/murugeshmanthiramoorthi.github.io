@@ -13,4 +13,4 @@ title: My skills Now
 
 ---
 
-<a href=/assets/img/profile.jpg>![Name of image](/assets/img/profile.jpg)</a>
+<a href="/assets/img/profile.jpg">![Name of image](/assets/img/profile.jpg)</a>
