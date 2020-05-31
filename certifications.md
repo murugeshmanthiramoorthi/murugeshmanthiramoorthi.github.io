@@ -54,6 +54,7 @@ int foo() {
 </td>
 </tr>
 </table
+
 ---
 ## WORKSHOPS
 ---
