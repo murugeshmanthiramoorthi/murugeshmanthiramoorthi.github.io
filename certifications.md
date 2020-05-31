@@ -47,7 +47,7 @@ int foo() {
 ```c++
 int foo() { 
     int x = 4;
-    return x;
+    returnb x;
 }
 ```
 
