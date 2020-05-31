@@ -28,10 +28,27 @@ css: '/css/main.css'
 * Knowledge sharing on Automotive Generative Design
 
 ---
+
+# PSG Tech - Hostel Council
+![PSG Tech - Hostel Council](/assets/img/community/aea.jpg "PSG Tech - Hostel Council")
+
+#### Role: Block Secretary (C Block)
+#### Activities:
+* Initiating new ideas for the betterment of students in the hostel
+* Identifying problems faced by the students and finding proper solutions for it
+* Arranging movie screening for students to provide a common ground for students to sit together and enjoy
+* Planning and organizing end-to-end activities for conducting student functions 
+
+#### Events Organized:
+* Semfeast 2017
+* Hostel Day 2018
+
+
+---
 # RAMANUJAN ASSOCIATION OF MATHEMATICS
 ![Ramanujan Association of Mathematics](/assets/img/community/ram.jpg "Ramanujan Association of Mathematics")
 
-#### Role Student: Executive
+#### Role: Student Executive
 #### Activities:
 * Planning and organizing events for the benefit of students
 * Conducting both technical and non-technical fun events to provide an ice-breaking platform for the students
@@ -40,7 +57,7 @@ css: '/css/main.css'
 * Supporting and promoting activities related to mathematics
 
 #### Events Organized:
-1. Number Ninjas - 97 participants​
+1. Number Ninjas - 97 participants
 2. Prime Pirates - 21 participants
 3. Game of Numbers - 61 participants
 4. Mathsters - 31 participants
@@ -53,3 +70,27 @@ css: '/css/main.css'
 11. Flash Math - 106 participants
 
 ---
+# Math Guidance
+![Math Guidance](/assets/img/community/ram.jpg "Math Guidance")
+
+#### Role Student:Organizer and Instructor
+#### Activities:
+* Math Guidance is an initiative to help lateral entry students with little exposure to high school mathematics
+* Those students are motivated and taught in a comfortable way
+* Classes were conducted according to their flexibility to benefit them
+* This initiative was backed by Department of Mathematics, PSG College of Technology
+* Space for conducting the class was provided by PSG Tech Hostel at G block Recreation hall
+
+
+#### Topics Covered:
+* False Position Method
+* Newton Raphson Method
+* Graffe’s Root Squaring Method
+* Bairstow’s Method
+* Taylor’s Method
+* Euler’s Method
+* Heun’s Method
+* RK Method
+
+---
+
