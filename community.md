@@ -1,16 +1,14 @@
 ---
 layout: page
-title: Community
 show-avatar: true
 css: '/css/main.css'
 ---
 
 ---
 # AUTOMIBILE ENGINEERING ASSOCIATION
-![Automobile Engineering Association](/assets/img/community/aea.jpg "AEA")
+![Automobile Engineering Association](/assets/img/community/aea.jpg "Automobile Engineering Association")
 
-#### Role: 
-Secretary
+#### Role: Secretary
 #### Activities:
 * Prestigious forum which provides an opportunity for an exposure on global Automotive Business
 * Promotes student activities and make students expertise in their acumen
@@ -19,7 +17,7 @@ Secretary
 * Initiate activities to promote development of students
 * Organize National and International conferences to get familiarize with global Automotive growth
 
-#### Events Organized
+#### Events Organized:
 * Project Management using PLM
 * Innovation and Researcher Trend Analysis using IHS Goldfire
 * Guest Lecture on Special Applications in Automobile Engineering 
@@ -31,16 +29,17 @@ Secretary
 
 ---
 # RAMANUJAN ASSOCIATION OF MATHEMATICS
-#### Role
-Student Executive
-#### Activities
+![Ramanujan Association of Mathematics](/assets/img/community/ram.jpg "Ramanujan Association of Mathematics")
+
+#### Role Student: Executive
+#### Activities:
 * Planning and organizing events for the benefit of students
 * Conducting both technical and non-technical fun events to provide an ice-breaking platform for the students
 * Preparing questions and problems of all difficulty level for those events
 * Publicizing events to attract more talents participating in the events 
 * Supporting and promoting activities related to mathematics
 
-#### Events Organized
+#### Events Organized:
 1. Number Ninjas - 97 participants​
 2. Prime Pirates - 21 participants
 3. Game of Numbers - 61 participants
