@@ -14,14 +14,26 @@ use-site-title: false
 ---
 ## bitsCrunch - **Data Science Intern**
 04/2020 - present
-* Currently working on various NLP projects to create some awesome products
-* Done market research to define and determine our comptitors
+> A data analytics firm which builds data-driven AI based products using Advanced Analytics, Digital marketing, Web Development, Social Media Analytics
+* Developing algorithms to extract transcripts from YouTube videos which are of high business value
+* Building Deep Learning models to extract summary from the transcripts to help companies work efficiently in right path
+* Trained a model using state of art BART using transfer learning which gave a ROUGE score above 41
+
+---
+## OpenGenus Foundation - **Machine Learning Developer Intern**
+04/2020 - present
+> An open-source non-profit organization with the aim to enable people to work offline for a longer stretch , reduce the time spent on searching
+* Researching various ways how Neural Networks are being fooled in Computer Vision field
+* Exploring various possibilities to prevent these state of techs from being fooled
+* Publishing my findings in more than 11 articles to help the future and peer learners understand them at ease
 
 ---
 ## Dhanalakshmi Agencies Pvt. Ltd. - **Procurement Data Analyst**
-012019 - 09/2019
-* Currently working on various NLP projects to create some awesome products
-* Done market research to define and determine our comptitors
+01/2019 - 09/2019
+> A FMCG distribution company which collects goods from various FMCG companies and distribute it to local vendors
+* Developing investments plans by demand forecasting and strategic decision making
+* Preparing efficient procurement plans based on seasonal and local trends
+* Helped the company move completely online increasing 2019 third quarter revenue by 8%
 
 ---
 
