@@ -30,7 +30,7 @@ css: '/css/main.css'
 ---
 
 # PSG Tech - Hostel Council
-![PSG Tech - Hostel Council](/assets/img/community/aea.jpg "PSG Tech - Hostel Council")
+![PSG Tech - Hostel Council](/assets/img/community/hc.jpg "PSG Tech - Hostel Council")
 
 #### Role: Block Secretary (C Block)
 #### Activities:
@@ -42,7 +42,6 @@ css: '/css/main.css'
 #### Events Organized:
 * Semfeast 2017
 * Hostel Day 2018
-
 
 ---
 # RAMANUJAN ASSOCIATION OF MATHEMATICS
@@ -71,7 +70,7 @@ css: '/css/main.css'
 
 ---
 # Math Guidance
-![Math Guidance](/assets/img/community/ram.jpg "Math Guidance")
+![Math Guidance](/assets/img/community/math.jpg "Math Guidance")
 
 #### Role Student:Organizer and Instructor
 #### Activities:
