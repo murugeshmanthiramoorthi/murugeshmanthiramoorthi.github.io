@@ -4,13 +4,12 @@ title: My skills Now
 ---
 
 ---
-<div align="center">
-| Skill   |      Experience      |
+
+<div align="center">| Skill   |      Experience      |
 |----------|-------------|
 | NLP |  left-aligned |
 | Data Visualizatio |    centered   |
-| Statistics | right-aligned |
-</div>
+| Statistics | right-aligned |</div>
 
 ---
 
