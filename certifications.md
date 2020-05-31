@@ -7,7 +7,7 @@ css: "assets/css/aboutme.css"
 
 ## SPECIALIZATION
 ---
-### 01. [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
+### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
 **deeplearning.ai**
 
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
@@ -21,7 +21,7 @@ AI is transforming multiple industries. After finishing this specialization, you
 We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 ---
-### 02. [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/RSNHF85LSVVQ){:target="_blank"}
+### [02. Machine Learning](https://www.coursera.org/account/accomplishments/specialization/RSNHF85LSVVQ){:target="_blank"}
 **University of Washington**
 
 This Specialization from leading researchers at the University of Washington introduces you to the exciting, high-demand field of Machine Learning. Through a series of practical case studies, you will gain applied experience in major areas of Machine Learning including Prediction, Classification, Clustering, and Information Retrieval. You will learn to analyze large and complex datasets, create systems that adapt and improve over time, and build intelligent applications that can make predictions from data.
