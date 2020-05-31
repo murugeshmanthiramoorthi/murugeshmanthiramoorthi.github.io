@@ -5,11 +5,11 @@ title: My skills Now
 
 ---
 
-| Skill   |      Experience      |
-|----------|-------------|
-| NLP |  left-aligned |
+| Skill             | Experience    |
+|:-----------------:|:-------------:|
+|          NLP      |  left-aligned |
 | Data Visualizatio |    centered   |
-| Statistics | right-aligned |
+| Statistics        | right-aligned |
 
 ---
 
