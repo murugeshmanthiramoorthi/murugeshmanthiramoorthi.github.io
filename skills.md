@@ -7,9 +7,9 @@ title: My skills Now
 
 | Skill             | Experience    |
 |:-----------------:|:-------------:|
-|          NLP      |  left-aligned |
-| Data Visualizatio |    centered   |
-| Statistics        | right-aligned |
+|          NLP      |  <font color="red">Master</font> |
+| Data Visualizatio |    <font color="red">Master</font>   |
+| Statistics        | <font color="red">Master</font> |
 
 ---
 
