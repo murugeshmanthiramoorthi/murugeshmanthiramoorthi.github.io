@@ -1,6 +1,8 @@
 ---
 layout: page
-title: My skills Now
+title: Skills
+subtitle: Things I have learnt and have been learning.
+
 ---
 
 ## Language
