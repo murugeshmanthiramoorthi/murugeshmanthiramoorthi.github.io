@@ -39,7 +39,8 @@ use-site-title: false
 
 ## Baja Bhais - **Captain & Powertrain Lead**
 01/2019 - 09/2019
-#### Activities:
+> Baja Bhais is a team of undergraduate students from PSG College of technology. The team designs, builds and races an All-Terrain Vehicle which participates in National Level Competitions.
+
 * Lead a team of 25 highly skilled students throughout the entire Product Life Cycle of the All-Terrain Vehicle
 * Design the vehicle through numerous iterations to reach optimum design
 * Approach numerous companies for fund-raising and succeeded in it
@@ -49,7 +50,7 @@ use-site-title: false
 * Manufacture the actual vehicle and test the vehicle in real-time
 * Participated in Mahindra Baja SAEIndia 2019 and completed the event in flying colors
 
-#### Achievements
+#### Highlights
 * Overall All India Ranking 9th out of over 500 teams registered
 * Completed the Endurance run in 10th position (FLAGSHIP EVENT)
 * One of the very few teams to complete the event without any mechanical failures
@@ -60,11 +61,17 @@ use-site-title: false
 # EDUCATION
 
 ---
-## PSG College of Technology - **BE Automobile Engineering**
-07/2015 - 05/2019
+## PSG College of Technology - **Bachelor of Engineering**
+* Tenure 07/2015 - 05/2019
+* CGPA: 8.95
+* Major: Automobile Engineering
+* Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
+* Mini-project: Intelligent Anti-theft system for two wheelers
 
 ---
 ## PKD Matric Hr. Sec. SChool - **High School**
-06/2013 - 04/2015
+* Tenure: 06/2013 - 04/2015
+* Percentage: 96.6%
+* Major: Mathematics and Biology
 
 ---
