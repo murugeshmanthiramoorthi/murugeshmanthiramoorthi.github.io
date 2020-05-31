@@ -44,16 +44,16 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "murugesh2401@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: murugeshmanthiramoorthi
+  github: murugeshmanthiramoorthi
+  twitter: murugesh__m
   rss: true
-#  reddit: yourname
-#  linkedin: daattali
+  reddit: Murugesh_M
+  linkedin: murugesh-manthiramoorthi
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "12246100/murugesh-manthiramoorthi"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: murugesh__m
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -105,13 +105,13 @@ footer-link-col: "#404040"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-168049202-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-168049202-1"
 
 # Google Tag Manager ID
-#gtm: ""
+gtm: "GTM-W6LTJNT"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
