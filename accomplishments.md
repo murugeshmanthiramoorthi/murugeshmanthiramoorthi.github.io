@@ -7,10 +7,6 @@ use-site-title: false
 css: "assets/css/aboutme.css"
 ---
 
-> **How you do anything defines how you do everything**
-
-# EXPERIENCE
-
 ---
 ## INTEL Edge AI Scholarship - **December 2019**
 **PROVIDED BY**: Intel & Udacity
