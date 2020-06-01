@@ -2,6 +2,7 @@
 layout: page
 title: Certifications
 subtitle: "MOOC Lover"
+css: '/css/main.css'
 
 ---
 
