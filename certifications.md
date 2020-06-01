@@ -11,10 +11,10 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/certificates/cer1.jpg" width="200">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
 </p>
 
-## SPECIALIZATIONdd
+## SPECIALIZATION
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
