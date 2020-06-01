@@ -11,7 +11,7 @@ subtitle: "MOOC Lover"
 
 ## SPECIALIZATION
 
-<a href=https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io><img id="im" src="assets/img/certificates/cer1.jpg"></a>
+![]("assets/img/certificates/cer1.jpg" | width=100)
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
 **deeplearning.ai**
