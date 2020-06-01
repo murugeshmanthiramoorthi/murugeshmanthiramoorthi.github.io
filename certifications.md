@@ -5,13 +5,16 @@ subtitle: "MOOC Lover"
 css: '/css/main.css'
 
 ---
+
+[01. Operation analytics](www.google.co.in)
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
 <p align="center">
-[<img src="/assets/img/certificates/cer1.jpg" width="200">](www.google.co.in)
+<img src="/assets/img/certificates/cer1.jpg" width="200">
 </p>
 
 ## SPECIALIZATIONdd
-
-![Wharton Online](/assets/img/certificates/cer1.jpg)
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
