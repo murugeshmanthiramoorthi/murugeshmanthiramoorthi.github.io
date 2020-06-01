@@ -6,6 +6,20 @@ css: '/css/main.css'
 
 ---
 
+<img align="left" width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+
+<img align="right" width="600" height="200" src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png">
+
+< /b>
+
+<img align="left" width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+
+<img align="right" width="600" height="200" src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png">
+< /b>
+<img align="left" width="600" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
+
+<img align="right" width="600" height="200" src="http://www.pngall.com/wp-content/uploads/2016/05/Python-Logo-Free-Download-PNG.png">
+
 [01. Operation analytics](www.google.co.in)
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
@@ -14,7 +28,7 @@ css: '/css/main.css'
 <img src="/assets/img/certificates/cer1.jpg" width="300">
 </p>
 
-## SPECIALIZATION
+## SPECIALIZATION I am ironman
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
