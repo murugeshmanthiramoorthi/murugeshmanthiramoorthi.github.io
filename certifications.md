@@ -6,11 +6,11 @@ css: '/css/main.css'
 
 ---
 
-
+<img src="/assets/img/certificates/cer1.jpg" width="200">
 
 ## SPECIALIZATION
 
-[![Wharton Online](/assets/img/certificates/cer1.jpg "Automobile Engineering Association"){ width: 200px; }](https://github.com/krishnaik06/Complete-Deep-Learning/tree/master/ANN)
+[![Wharton Online](/assets/img/certificates/cer1.jpg =200x)](https://github.com/krishnaik06/Complete-Deep-Learning/tree/master/ANN)
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
