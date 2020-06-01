@@ -6,12 +6,11 @@ subtitle: "MOOC Lover"
 ---
 
 <a href="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io">
-  <img src="assets/img/certificates/cer1.jpg" width="200" />
+  <img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg" width="200" />
 </a>
 
 ## SPECIALIZATION
 
-![]("assets/img/certificates/cer1.jpg" | width=100)
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
 **deeplearning.ai**
