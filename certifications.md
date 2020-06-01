@@ -10,7 +10,7 @@ css: '/css/main.css'
 
 ## SPECIALIZATION
 
-[![Wharton Online](/assets/img/certificates/cer1.jpg =200x)](https://github.com/krishnaik06/Complete-Deep-Learning/tree/master/ANN)
+![Wharton Online](/assets/img/certificates/cer1.jpg =200x)
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
