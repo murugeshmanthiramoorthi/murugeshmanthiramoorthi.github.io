@@ -5,10 +5,11 @@ subtitle: "MOOC Lover"
 css: '/css/main.css'
 
 ---
-
+<p align="center">
 [<img src="/assets/img/certificates/cer1.jpg" width="200">](www.google.co.in)
+</p>
 
-## SPECIALIZATION
+## SPECIALIZATIONdd
 
 ![Wharton Online](/assets/img/certificates/cer1.jpg)
 
