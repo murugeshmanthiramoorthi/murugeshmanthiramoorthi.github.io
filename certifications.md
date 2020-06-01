@@ -5,6 +5,10 @@ subtitle: "MOOC Lover"
 
 ---
 
+<a href="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io">
+  <img src="assets/img/certificates/cer1.jpg" width="200" />
+</a>
+
 ## SPECIALIZATION
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
