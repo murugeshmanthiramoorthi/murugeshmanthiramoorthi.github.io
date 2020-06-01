@@ -2,7 +2,7 @@
 layout: page
 title: Certifications
 subtitle: "MOOC Lover"
-css: '/css/main.css'
+css: 'assets/css/main.css'
 
 ---
 
@@ -10,7 +10,7 @@ css: '/css/main.css'
   <img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg" width="200" />
 </a>
 
-## SPECIALIZATION
+## SPECIALIZATIONededd
 
 [<img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg">](https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io)
 
