@@ -12,6 +12,8 @@ css: 'assets/css/main.css'
 
 ## SPECIALIZATIONededd
 
+![Wharton Online](/assets/img/certificates/cer1.jpg "Automobile Engineering Association")
+
 [<img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg">](https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io)
 
 ---
