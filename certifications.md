@@ -6,15 +6,11 @@ css: '/css/main.css'
 
 ---
 
-<a href="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io">
-  <img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg" width="200" />
-</a>
+
 
 ## SPECIALIZATIONededddaaaaaaaaaaaaa
 
-![Wharton Online](/assets/img/certificates/cer1.jpg width="200" "Automobile Engineering Association")
-
-[<img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg">](https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io)
+[![Wharton Online](/assets/img/certificates/cer1.jpg "Automobile Engineering Association")](https://github.com/krishnaik06/Complete-Deep-Learning/tree/master/ANN)
 
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
