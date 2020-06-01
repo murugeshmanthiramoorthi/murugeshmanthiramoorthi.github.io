@@ -2,7 +2,7 @@
 layout: page
 title: Certifications
 subtitle: "MOOC Lover"
-css: 'assets/css/main.css'
+css: '/css/main.css'
 
 ---
 
@@ -10,9 +10,9 @@ css: 'assets/css/main.css'
   <img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg" width="200" />
 </a>
 
-## SPECIALIZATIONededd
+## SPECIALIZATIONededddaaaaaaaaaaaaa
 
-![Wharton Online](/assets/img/certificates/cer1.jpg "Automobile Engineering Association")
+![Wharton Online](/assets/img/certificates/cer1.jpg width="200" "Automobile Engineering Association")
 
 [<img src="https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io/blob/master/assets/img/certificates/cer1.jpg">](https://github.com/murugeshmanthiramoorthi/murugeshmanthiramoorthi.github.io)
 
