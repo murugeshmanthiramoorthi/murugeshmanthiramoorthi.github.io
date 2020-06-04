@@ -30,6 +30,34 @@ css: '/css/main.css'
 </p>
 
 ---
+### [03. Machine Learning](https://www.coursera.org/account/accomplishments/specialization/RSNHF85LSVVQ){:target="_blank"}
+
+<p align="center">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
+</p>
+
+---
+### [03. Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/92H8QYET56NG){:target="_blank"}
+
+<p align="center">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
+</p>
+
+---
+### [03. Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/YWP9H9HBRYWH){:target="_blank"}
+
+<p align="center">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
+</p>
+
+---
+### [03. AI foundation for everyone](https://www.coursera.org/account/accomplishments/specialization/H58JMR4CANZF){:target="_blank"}
+
+<p align="center">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
+</p>
+
+---
 
 ---
 ## ONLINE COURSES
