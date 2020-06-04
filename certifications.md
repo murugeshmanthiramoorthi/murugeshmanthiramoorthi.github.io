@@ -107,6 +107,27 @@ css: '/css/main.css'
 ## SKILL TRAINING
 
 ---
+### 01. Intel Edge AI Foundational Course
+
+<p align="center">
+<img src="/assets/img/cert/skill/01.jpg" width="300">
+</p>
+
+---
+### 02. The Fundamentals of Digital Marketing
+
+<p align="center">
+<img src="/assets/img/cert/skill/02.jpg" width="300">
+</p>
+
+---
+### 03. Android App Development Training
+
+<p align="center">
+<img src="/assets/img/cert/skill/03.jpg" width="300">
+</p>
+
+---
 
 ---
 ## WORKSHOPS
