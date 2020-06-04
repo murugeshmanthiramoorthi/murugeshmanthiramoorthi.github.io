@@ -84,21 +84,246 @@ css: '/css/main.css'
 ## ONLINE COURSES
 
 ---
-### [01. Introduction to Python](https://www.datacamp.com/statement-of-accomplishment/course/c48ab993cbfca62888290e8e33e5700f7b6541b8){:target="_blank"}
+### [01. Tools for Data Science](https://www.coursera.org/account/accomplishments/records/GXRN73WYPDJ6){:target="_blank"}
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/certificates/cer1.jpg" width="300">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
 </p>
 
 ---
-[01. Operation analytics](www.google.co.in)
+### [02. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/certificates/cer1.jpg" width="300">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [03. Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/records/862647KGLB3R){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [04. Supply Chain Management: A learning Perspective](https://www.coursera.org/account/accomplishments/records/3AUMPQ57LT7A){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [05. Convolutional Neural Network in Tensorflow](https://www.coursera.org/account/accomplishments/records/ZTDZRAZ5PH9Y){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [06. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/CDTCC4RVASMZ){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [07. Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/records/4GN6FAWBM5ZF){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [08. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [09. Structuring Machine Learning projects](https://www.coursera.org/account/accomplishments/records/XZ85C6KNGJ8L){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [10. Introduction to Applied Machine Learning](https://www.coursera.org/account/accomplishments/records/Z9WRZNDEQUAE){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [11. Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/records/WN2HYSDTZX6V){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [12. Machine Learning: Classification](https://www.coursera.org/account/accomplishments/records/YGADL9XFARL6){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [13. Supply Chain Analytics Essentials](https://www.coursera.org/account/accomplishments/records/9WUC53E34BWM){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [14. Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/C7JRQKJXF8KS){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [15. Machine Learning: Regression](https://www.coursera.org/account/accomplishments/records/DG4MNGW5PJBH){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [16. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/HF4WASC8JB8Y){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [17. Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/BKWY5E6R9D3F){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [18. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [19. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [20. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [21. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [22. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [23. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [24. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [25. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [26. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [27. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
 </p>
 
 ---
