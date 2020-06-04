@@ -11,6 +11,9 @@ css: '/css/main.css'
 ---
 ### [01. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
 **deeplearning.ai**
+<p align="center">
+<img src="/assets/img/certificates/cer1.jpg" width="300">
+</p>
 
 ---
 ### [02. Machine Learning](https://www.coursera.org/account/accomplishments/specialization/RSNHF85LSVVQ){:target="_blank"}
