@@ -597,6 +597,231 @@ css: '/css/main.css'
 </p>
 
 ---
+### [58. Introduction to Data Visualization with Matplotlib](https://www.datacamp.com/statement-of-accomplishment/course/1058f69bf973af8b1e6786506cf6969f87d331aa){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [59. Intermediate Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/a7e52e7f75ba1441ba3b71a7e46f721c279c8885){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [60. Unsupervised Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/bb3f8f0cdc6bf19f0dba18ef7de31902696450eb){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [61. Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/c912483ff119bcd11e15b83bc9215bb2a7dc376a){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [62. Introduction to Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/ff627c3dbb6332deb4758c71594fd580c665143b){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [63. Statistical Thinking in Python (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/596cbc77bf30d25baefde80d80321186000108fe){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [64. Machine Learning with Tree-Based Models in Python](https://www.datacamp.com/statement-of-accomplishment/course/38cf025b589597c36c1500292036f7f00f132f23){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [65. Exploratory Data Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/4cdecb75ae741fea4365ee495d49285e8c505d70){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [66. Intermediate Data Visualization with Seaborn](https://www.datacamp.com/statement-of-accomplishment/course/fee5893948163537ad9d7c4bd5d20ab867957f09){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [67. Analyzing Police Activity with pandas](https://www.datacamp.com/statement-of-accomplishment/course/d0f9834f5ed80ba2a15e849ca3a89c9719868dbd){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [68. Working with Dates and Times in Python](https://www.datacamp.com/statement-of-accomplishment/course/f72443b970f0aaf874087bc4ada08fa1daf7fd20){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [69. Cluster Analysis in Python](https://www.datacamp.com/statement-of-accomplishment/course/ae469f95f498558f6c529ddfa2ab32428f42ca5c){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [70. Cleaning Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/e8d13b142f9ada59a5dd77f80535a20dfc0d7829){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [71. Case Study: School Budgeting with Machine Learning in Python](https://www.datacamp.com/statement-of-accomplishment/course/04036dba2632d20ec0f622756d29bf59403867b2){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [72. Introduction to Programming in R course](https://app.dataquest.io/view_cert/2R59UOA23C3UMMH4XBWV/){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [73. Intermediate R Programming course](https://app.dataquest.io/view_cert/TO47LAJIH72A7YHY2CUO/){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/asshttps://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17dets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### 74. Introduction to Data Analytics
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### 75. AI from Data Center to Edge 
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### 76. Introduction to Internet of Things
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [77. How Virtual reality works](https://courses.edx.org/certificates/dc8438a6fb7642f1a32e50a15d5730ff){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [78.  Analyzing and Visualizing Data with Power BI](https://courses.edx.org/certificates/4d5fb19d04ab42178fd588f0be2d0fa8){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [79. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [80. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [81. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
+### [82. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/01.jpg" width="300">
+</p>
+
+---
 
 ---
 ## SKILL TRAINING
