@@ -147,7 +147,7 @@ css: '/css/main.css'
 </p>
 
 ---
-### [08. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+### [08. Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/RQQDDMXRH4T4){:target="_blank"}
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
