@@ -98,7 +98,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/02.jpg" width="300">
 </p>
 
 ---
@@ -107,7 +107,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/03.jpg" width="300">
 </p>
 
 ---
@@ -116,7 +116,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/04.jpg" width="300">
 </p>
 
 ---
@@ -125,7 +125,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/05.jpg" width="300">
 </p>
 
 ---
@@ -134,7 +134,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/06.jpg" width="300">
 </p>
 
 ---
@@ -143,7 +143,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/07.jpg" width="300">
 </p>
 
 ---
@@ -152,7 +152,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/08.jpg" width="300">
 </p>
 
 ---
@@ -161,7 +161,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/09.jpg" width="300">
 </p>
 
 ---
@@ -170,7 +170,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/10.jpg" width="300">
 </p>
 
 ---
@@ -179,7 +179,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/11.jpg" width="300">
 </p>
 
 ---
@@ -188,7 +188,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/12.jpg" width="300">
 </p>
 
 ---
@@ -197,7 +197,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/13.jpg" width="300">
 </p>
 
 ---
@@ -206,7 +206,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/14.jpg" width="300">
 </p>
 
 ---
@@ -215,7 +215,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/15.jpg" width="300">
 </p>
 
 ---
@@ -224,7 +224,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/16.jpg" width="300">
 </p>
 
 ---
@@ -233,7 +233,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/17.jpg" width="300">
 </p>
 
 ---
@@ -242,7 +242,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/18.jpg" width="300">
 </p>
 
 ---
@@ -251,7 +251,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/19.jpg" width="300">
 </p>
 
 ---
@@ -260,7 +260,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/20.jpg" width="300">
 </p>
 
 ---
@@ -269,7 +269,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/21.jpg" width="300">
 </p>
 
 ---
@@ -278,7 +278,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/22.jpg" width="300">
 </p>
 
 ---
@@ -287,7 +287,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/23.jpg" width="300">
 </p>
 
 ---
@@ -296,7 +296,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/24.jpg" width="300">
 </p>
 
 ---
@@ -305,7 +305,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/25.jpg" width="300">
 </p>
 
 ---
@@ -314,7 +314,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/26.jpg" width="300">
 </p>
 
 ---
@@ -323,7 +323,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/27.jpg" width="300">
 </p>
 
 ---
@@ -332,7 +332,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/28.jpg" width="300">
 </p>
 
 ---
@@ -341,7 +341,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/29.jpg" width="300">
 </p>
 
 ---
@@ -350,7 +350,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/30.jpg" width="300">
 </p>
 
 ---
@@ -359,7 +359,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/31.jpg" width="300">
 </p>
 
 ---
@@ -368,7 +368,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/32.jpg" width="300">
 </p>
 
 ---
@@ -377,7 +377,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/33.jpg" width="300">
 </p>
 
 ---
@@ -386,7 +386,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/34.jpg" width="300">
 </p>
 
 ---
@@ -395,7 +395,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/35.jpg" width="300">
 </p>
 
 ---
@@ -404,7 +404,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/36.jpg" width="300">
 </p>
 
 ---
@@ -413,7 +413,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/37.jpg" width="300">
 </p>
 
 ---
@@ -422,7 +422,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/38.jpg" width="300">
 </p>
 
 ---
@@ -431,7 +431,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/39.jpg" width="300">
 </p>
 
 ---
@@ -440,7 +440,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/40.jpg" width="300">
 </p>
 
 ---
@@ -449,7 +449,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/41.jpg" width="300">
 </p>
 
 ---
@@ -458,7 +458,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/42.jpg" width="300">
 </p>
 
 ---
@@ -467,7 +467,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/43.jpg" width="300">
 </p>
 
 ---
@@ -476,7 +476,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/44.jpg" width="300">
 </p>
 
 ---
@@ -485,7 +485,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/45.jpg" width="300">
 </p>
 
 ---
@@ -494,7 +494,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/46.jpg" width="300">
 </p>
 
 ---
@@ -503,7 +503,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/47.jpg" width="300">
 </p>
 
 ---
@@ -512,7 +512,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/48.jpg" width="300">
 </p>
 
 ---
@@ -521,7 +521,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/49.jpg" width="300">
 </p>
 
 ---
@@ -530,7 +530,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/50.jpg" width="300">
 </p>
 
 ---
@@ -539,7 +539,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/51.jpg" width="300">
 </p>
 
 ---
@@ -548,7 +548,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/52.jpg" width="300">
 </p>
 
 ---
@@ -557,7 +557,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/53.jpg" width="300">
 </p>
 
 ---
@@ -566,7 +566,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/54.jpg" width="300">
 </p>
 
 ---
@@ -575,7 +575,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/55.jpg" width="300">
 </p>
 
 ---
@@ -584,7 +584,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/56.jpg" width="300">
 </p>
 
 ---
@@ -593,7 +593,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/57.jpg" width="300">
 </p>
 
 ---
@@ -602,7 +602,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/58.jpg" width="300">
 </p>
 
 ---
@@ -611,7 +611,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/59.jpg" width="300">
 </p>
 
 ---
@@ -620,7 +620,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/60.jpg" width="300">
 </p>
 
 ---
@@ -629,7 +629,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/61.jpg" width="300">
 </p>
 
 ---
@@ -638,7 +638,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/62.jpg" width="300">
 </p>
 
 ---
@@ -647,7 +647,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/63.jpg" width="300">
 </p>
 
 ---
@@ -656,7 +656,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/64.jpg" width="300">
 </p>
 
 ---
@@ -665,7 +665,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/65.jpg" width="300">
 </p>
 
 ---
@@ -674,7 +674,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/66.jpg" width="300">
 </p>
 
 ---
@@ -683,7 +683,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/67.jpg" width="300">
 </p>
 
 ---
@@ -692,7 +692,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/68.jpg" width="300">
 </p>
 
 ---
@@ -701,7 +701,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/69.jpg" width="300">
 </p>
 
 ---
@@ -710,7 +710,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/70.jpg" width="300">
 </p>
 
 ---
@@ -719,7 +719,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/71.jpg" width="300">
 </p>
 
 ---
@@ -728,7 +728,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/72.jpg" width="300">
 </p>
 
 ---
@@ -737,7 +737,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/asshttps://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17dets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/73.jpg" width="300">
 </p>
 
 ---
@@ -746,7 +746,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/74.jpg" width="300">
 </p>
 
 ---
@@ -755,7 +755,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/75.jpg" width="300">
 </p>
 
 ---
@@ -764,7 +764,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/76.jpg" width="300">
 </p>
 
 ---
@@ -773,7 +773,7 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/77.jpg" width="300">
 </p>
 
 ---
@@ -782,43 +782,133 @@ css: '/css/main.css'
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/78.jpg" width="300">
 </p>
 
 ---
-### [79. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+### 79. Elements of AI
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/79.jpg" width="300">
 </p>
 
 ---
-### [80. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+### 80. Statistics 101
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/80.jpg" width="300">
 </p>
 
 ---
-### [81. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+### 81. Big data 101
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/81.jpg" width="300">
 </p>
 
 ---
-### [82. Introduction to Importing Data in Python](https://www.datacamp.com/statement-of-accomplishment/course/ff42989dc8e635c91d4d90a9567aae8dd7e0c17d){:target="_blank"}
+### 82. Image recognition with Neural Network from Scratch
 
 >Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 <p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
+<img src="/assets/img/cert/cour/82.jpg" width="300">
+</p>
+
+---
+### 83. R Basics - R programming Language
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/83.jpg" width="300">
+</p>
+
+---
+### 84. Improve Decision Making Skills with Excel Pivot Tables
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/84.jpg" width="300">
+</p>
+
+---
+### 85. Introduction to Financial Modelling
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/85.jpg" width="300">
+</p>
+
+---
+### 86. Supply Chain Planning that delivers a competitive advantage
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/86.jpg" width="300">
+</p>
+
+---
+### 87. Snowflake - Cloud Data Warehouse and Analytics
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/87.jpg" width="300">
+</p>
+
+---
+### 88. Python Basics Bootcamp
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/88.jpg" width="300">
+</p>
+
+---
+### 89. Artificial Intelligence - Full Course with Deep Learning
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/89.jpg" width="300">
+</p>
+
+---
+### 90. Consumer Behaviour
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/90.jpg" width="300">
+</p>
+
+---
+### 91. Block Chain Theory 101
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/91.jpg" width="300">
+</p>
+
+---
+### 92. Introduction to Transportation Risk Analysis
+
+>Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+
+<p align="center">
+<img src="/assets/img/cert/cour/92.jpg" width="300">
 </p>
 
 ---
@@ -845,6 +935,13 @@ css: '/css/main.css'
 
 <p align="center">
 <img src="/assets/img/cert/skill/03.jpg" width="300">
+</p>
+
+---
+### 04. Lean Sis Sigma White Belt
+
+<p align="center">
+<img src="/assets/img/cert/skill/04.jpg" width="300">
 </p>
 
 ---
