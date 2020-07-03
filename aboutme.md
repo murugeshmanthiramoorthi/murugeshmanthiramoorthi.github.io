@@ -10,7 +10,9 @@ use-site-title: false
 
 >>> **How you do anything defines how you do everything**
 
-# EXPERIENCE
+<p style="font-size:60px; color:red; text-align: center">How you do anything defines how you do everything</p>
+
+# WORK EXPERIENCE
 
 ---
 ## bitsCrunch - **Data Science Intern**
