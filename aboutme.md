@@ -8,20 +8,18 @@ use-site-title: false
 
 >*I am a self-motivated and self-taught continuous learner with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.*
 
->>> **How you do anything defines how you do everything**
-
-<p style="font-size:60px; color:red; text-align: center">How you do anything defines how you do everything</p>
+<p style="font-size:30px; color:red; text-align: center">How you do anything defines how you do everything!</p>
 
 # WORK EXPERIENCE
 
 ---
 ## bitsCrunch - **Data Science Intern**
 04/2020 - present
-> A data analytics firm which builds data-driven AI based products using Advanced Analytics, Digital marketing, Web Development, Social Media Analytics
+> A data analytics firm based in Germany which builds data-driven AI products using Advanced Analytics, Web Development, Social Media Analytics
 
-* Developing algorithms to extract transcripts from YouTube videos which are of high business value
-* Building Deep Learning models to extract summary from the transcripts to help companies work efficiently in right path
-* Trained a model using state of art BART using transfer learning which gave a ROUGE score above 41
+* Developed SOTA algorithms and architectures to solve NLP problems
+* Developed a content based recommendation tool 
+* Collection and storage of data for model development
 
 ---
 ## OpenGenus Foundation - **Machine Learning Developer Intern**
@@ -39,7 +37,7 @@ use-site-title: false
 
 * Developing investments plans by demand forecasting and strategic decision making
 * Preparing efficient procurement plans based on seasonal and local trends
-* Helped the company move completely online increasing 2019 third quarter revenue by 8%
+* Helped the company move completely online reducing 2019 third quarter expenses by 8%
 
 ---
 
@@ -72,6 +70,7 @@ use-site-title: false
 * CGPA: 8.95
 * Major: Automobile Engineering
 * Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
+* Guide: Dr Karthikeyan P
 * Mini-project: Intelligent Anti-theft system for two wheelers
 
 ---
