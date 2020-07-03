@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: '/assets/img/cover/aboutme.jpg'
+cover-img: '/assets/img/cover/about.jpg'
 use-site-title: false
 
 ---
