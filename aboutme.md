@@ -81,7 +81,7 @@ WorldQuant University is an international not-for-profit advancing global educat
 
 ---
 ## PSG College of Technology - **Bachelor of Engineering**
-PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. The institution provides high quality education ranging from bachelor level to advanced doctrates across a wide category. 
+PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. The institution provides high quality education ranging from bachelor level to advanced doctrates across a wide category. The institution has trained some of the finest researchers and professionals.
 * Tenure 07/2015 - 05/2019
 * CGPA: 8.95
 * Major: Automobile Engineering
