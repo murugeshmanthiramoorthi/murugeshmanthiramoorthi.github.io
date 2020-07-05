@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Certifications
-subtitle: "MOOC Lover"
+subtitle: "I am a MOOC Lover. But I don't share certificates in LinkedIn"
 css: '/css/main.css'
 
 ---
+
+This is going to be a little looooooong scroll😜. Please bear with me.
 
 ## SPECIALIZATION/TRACKS
 
@@ -37,31 +39,23 @@ css: '/css/main.css'
 
 ---
 ### [07. AI foundation for everyone](https://www.coursera.org/account/accomplishments/specialization/H58JMR4CANZF){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/07.jpg" width="300">
-</p>
 
 ---
 ### [08. Executive Data Science](https://www.coursera.org/account/accomplishments/specialization/Z54XHYQ2RB72){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/08.jpg" width="300">
-</p>
 
 ---
 ### [09. SAS Programmer](https://www.coursera.org/account/accomplishments/professional-cert/3PY22AQ7HZMU){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/09.jpg" width="300">
-</p>
 
 ---
 ### [10. SAS Visual Business Analytics](https://www.coursera.org/account/accomplishments/professional-cert/97VD4T2RC22D){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/10.jpg" width="300">
-</p>
 
 ---
 
@@ -70,12 +64,10 @@ css: '/css/main.css'
 
 ---
 ### [01. Tools for Data Science](https://www.coursera.org/account/accomplishments/records/GXRN73WYPDJ6){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+> Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/01.jpg" width="300">
-</p>
 
 ---
 ### [02. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
