@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Certifications
-subtitle: "I am a MOOC Lover. But I don't share certificates in LinkedIn"
+subtitle: "I am a MOOC Lover. But I don't share certificates on LinkedIn."
 css: '/css/main.css'
 
 ---
@@ -68,7 +68,6 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
  - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-
 ---
 ### [02. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
 > Coursera
@@ -78,12 +77,10 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 ---
 ### [03. Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/records/862647KGLB3R){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/03.jpg" width="300">
-</p>
 
 ---
 ### [04. Supply Chain Management: A learning Perspective](https://www.coursera.org/account/accomplishments/records/3AUMPQ57LT7A){:target="_blank"}
