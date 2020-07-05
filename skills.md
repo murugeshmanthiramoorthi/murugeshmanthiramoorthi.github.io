@@ -1,50 +1,45 @@
 ---
 layout: page
 title: Skills
-subtitle: Things I have learnt and still learning. Striving steadily to become a grandmaster of all these categories.
+subtitle: Things I have learnt and still learning. Striving steadily to master all these categories.
 
 ---
 
-## Language
+## Languages Known
 
 ---
 
-<ul "display:inline-block">
-  <li>தமிழ்</li>
-  <li>English</li>
-  <li>français</li>
-  <li>Communication</li>
-</ul><br>
-
-| Language      | Performance Tiers                  |
-|:-------------:|:----------------------------------:|
-| தமிழ்          | <b style='color:red'>Master</b>    |
-| English       | <b style='color:red'>Master</b>    |
-| français      | <b style='color:violet'>Expert</b> |
+- தமிழ்
+- English
+- Français
 
 ---
 
 
 ## Coding Skills
+
 ---
 
-| Skill                       | Performance Tiers                     |
-|:---------------------------:|:-------------------------------------:|
-| Python Programming          | <b style='color:red'>Master</b>       |
-| R Programming               | <b style='color:violet'>Expert</b>    |
-| Data Visualization          | <b style='color:red'>Master</b>       |
-| Statistical Analysis        | <b style='color:violet'>Expert</b>    |
-| Data Analytics              | <b style='color:red'>Master</b>       |
-| Machine Learning            | <b style='color:red'>Master</b>       |
-| Natural Language Processing | <b style='color:red'>Master</b>       |
-| Computer Vision             | <b style='color:violet'>Expert</b>    |
-| Deep Learning               | <b style='color:red'>Master</b>       |
-| Version Control             | <b style='color:violet'>Expert</b>    |
-| Docker                      | <b style='color:blue'>Contributor</b> |
-| Flask                       | <b style='color:blue'>Contributor</b> |
-| Rasa                        | <b style='color:blue'>Contributor</b> |
-| Speech Recognition          | <b style='color:blue'>Contributor</b> |
-| R Shiny                     | <b style='color:violet'>Expert</b>    |
-| Reinforcement Learning      | <b style='color:blue'>Contributor</b> |
+#### Programming Languages
+> Python, R, C, Matlab
+
+#### Platforms
+> Linux Mint, Ubuntu, Windows 7, Windows 8.1, Windows 10
+
+#### Deep Learning Frameworks
+> Pytorch, Tensorflow 1, Tensorflow 2.0
+
+#### Wed Deployment Frameworks
+> Flask, Rshiny, Dash, Streamlit
+
+#### Data Vizualization
+> Matplotlib, seaborn, plotly, ggplot2
+
+#### Version Control
+> Github, docker
+
+#### Cloud Technologies
+> GCP, Pivotal web services, Heroku, ngrok
+
 
 ---
