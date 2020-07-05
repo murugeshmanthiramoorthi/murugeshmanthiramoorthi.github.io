@@ -7,8 +7,6 @@ use-site-title: false
 
 ---
 
-<p style="font-size:30px; color:#ff7373; text-align: center">How you do anything defines how you do everything!</p>
-
 # WORK EXPERIENCE
 
 ---
