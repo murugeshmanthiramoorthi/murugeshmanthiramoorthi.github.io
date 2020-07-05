@@ -66,7 +66,7 @@ use-site-title: false
 
 ---
 ## World Quant University - **Continuing Education**
-- WorldQuant University is an international not-for-profit advancing global education in data sciences.
+WorldQuant University is an international not-for-profit advancing global education in data sciences.
 * Tenure 01/2020 - 06/2020
 * Grade: Honors
 * Major: Data Science
@@ -81,6 +81,7 @@ use-site-title: false
 
 ---
 ## PSG College of Technology - **Bachelor of Engineering**
+PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. The institution provides high quality education ranging from bachelor level to advanced doctrates across a wide category. 
 * Tenure 07/2015 - 05/2019
 * CGPA: 8.95
 * Major: Automobile Engineering
@@ -88,7 +89,15 @@ use-site-title: false
 * Guide: Dr Karthikeyan P
 * Mini-project: Intelligent Anti-theft system for two wheelers
 * Some important courses covered:
-  - 
+  - Electric, hybrid and fuel cell vehicles
+  - Design for manufacture and assembly
+  - Dynamics of machineries
+  - Engineering design
+  - Engineering mechanics
+  - Lean Methods for Automobile engineers
+  - Manufacturing process
+  - Metrology and quality engineering
+  - Production planning
 
 ---
 ## PKD Matric Hr. Sec. SChool - **High School**
