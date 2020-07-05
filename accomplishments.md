@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accomplishments
-subtitle: "Achievemnets differ us from others"
+subtitle: "Achievements differ us from others"
 cover-img: '/assets/img/cover/accomplishments.jpg'
 use-site-title: false
 css: "assets/css/aboutme.css"
@@ -14,6 +14,7 @@ css: "assets/css/aboutme.css"
 
 
 ---
+
 ## Aruchami Endowment Award - **June 2019**
 **PROVIDED BY**: PSG Tech Alumni Association
 > I lead of team of 4 skilled students with a common motivation of designing and developing a hydrogen fuel cell powered two wheeler. Having Toyota Mirai as our bench mark, we first designed our multi-layered Hydrogen storage tank for the vehicle. Then we prepared our design requirements based on various research publications and advice from industrial experts. We then designed and analysed the vehicle for various simulated conditions. We also designed various Simulink models to validate our design. As a token of appreciation to our hard work, innovation and applied knowledge, our project was selected as the BEST PROJECT by the Jury and the External Committee. 
