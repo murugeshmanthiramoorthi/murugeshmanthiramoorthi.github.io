@@ -18,7 +18,7 @@ ul.list li{
   width: 100px;
 }
 
-<ul class="list">
+<ul "display:inline-block">
   <li>தமிழ்</li>
   <li>English</li>
   <li>français</li>
