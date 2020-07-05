@@ -6,9 +6,9 @@ use-site-title: false
 
 ---
 
->*I am a self-motivated and self-taught continuous learner with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.*
+>*I am a self-motivated and self-taught Data Scientist with proven leadership skills. I am always in a quest of mastering new skills as I believe "I know nothing". I have evidenced success in both individual tasks and team works. I have been part of numerous teams and I always make sure everyone has an equal contribution. I try my maximum and make sure that I get the tasks assigned to me are completed on time. I believe time is the most valuable thing in the universe as it cannot be brought back(as of now). So I try not to waste that in any way.*
 
-<p style="font-size:30px; color:red; text-align: center">How you do anything defines how you do everything!</p>
+<p style="font-size:30px; color:#ff7373; text-align: center">How you do anything defines how you do everything!</p>
 
 # WORK EXPERIENCE
 
@@ -66,8 +66,9 @@ use-site-title: false
 
 ---
 ## World Quant University - **Continuing Education**
-Tenure 01/2020 - 06/2020
+01/2020 - 06/2020
 > WorldQuant University is an international not-for-profit advancing global education in data sciences.
+
 * Grade: Honors
 * Major: Data Science
 * Some courses covered:
@@ -83,6 +84,7 @@ Tenure 01/2020 - 06/2020
 ## PSG College of Technology - **Bachelor of Engineering**
 07/2015 - 05/2019
 > PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. The institution provides high quality education ranging from bachelor level to advanced doctrates across a wide category. The institution has trained some of the finest researchers and professionals.
+
 * CGPA: 8.95
 * Major: Automobile Engineering
 * Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
