@@ -9,6 +9,22 @@ subtitle: Things I have learnt and still learning. Striving steadily to become a
 
 ---
 
+ul.list {
+  width: 300px;  
+}
+
+ul.list li{
+  display:inline-block;
+  width: 100px;
+}
+
+<ul class="list">
+  <li>தமிழ்</li>
+  <li>English</li>
+  <li>français</li>
+  <li>Communication</li>
+</ul><br>
+
 | Language      | Performance Tiers                  |
 |:-------------:|:----------------------------------:|
 | தமிழ்          | <b style='color:red'>Master</b>    |
