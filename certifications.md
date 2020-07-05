@@ -66,17 +66,15 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 ### [01. Tools for Data Science](https://www.coursera.org/account/accomplishments/records/GXRN73WYPDJ6){:target="_blank"}
 > Coursera
 
-> Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 
 ---
 ### [02. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/02.jpg" width="300">
-</p>
 
 ---
 ### [03. Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/records/862647KGLB3R){:target="_blank"}
