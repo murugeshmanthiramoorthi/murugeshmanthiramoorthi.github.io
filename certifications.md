@@ -10,36 +10,30 @@ css: '/css/main.css'
 
 ---
 ### [01. Data Scientist with python track](https://www.datacamp.com/statement-of-accomplishment/track/2ce5caaa818fcffd357b2fe60cf40cdcb86a6cb0){:target="_blank"}
-
+> Datacamp
 
 ---
 ### [02. Python programming track](https://www.datacamp.com/statement-of-accomplishment/track/c683929c318746097bc1c85dc172922ed53badf0){:target="_blank"}
-
+> Datacamp
 
 ---
 ### [03. Deep Learning](https://www.coursera.org/account/accomplishments/specialization/R84YKF5GP6R7){:target="_blank"}
-
+> Coursera
 
 ---
 ### [04. Machine Learning](https://www.coursera.org/account/accomplishments/specialization/RSNHF85LSVVQ){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/04.jpg" width="300">
-</p>
 
 ---
 ### [05. Tensorflow in Practice](https://www.coursera.org/account/accomplishments/specialization/92H8QYET56NG){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/05.jpg" width="300">
-</p>
 
 ---
 ### [06. Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/YWP9H9HBRYWH){:target="_blank"}
+> Coursera
 
-<p align="center">
-<img src="/assets/img/cert/spec/06.jpg" width="300">
-</p>
 
 ---
 ### [07. AI foundation for everyone](https://www.coursera.org/account/accomplishments/specialization/H58JMR4CANZF){:target="_blank"}
