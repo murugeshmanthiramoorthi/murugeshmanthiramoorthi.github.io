@@ -2,6 +2,7 @@
 layout: page
 title: About me
 # cover-img: '/assets/img/cover/rsz_about.jpg'
+subtitle: Get to know more about me by scrolling down
 use-site-title: false
 
 ---
