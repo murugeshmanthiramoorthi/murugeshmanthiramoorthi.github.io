@@ -65,6 +65,21 @@ use-site-title: false
 # EDUCATION
 
 ---
+## World Quant University - **Continuing Education**
+- WorldQuant University is an international not-for-profit advancing global education in data sciences.
+* Tenure 01/2020 - 06/2020
+* Grade: Honors
+* Major: Data Science
+* Some courses covered:
+  - Data structures and algorithms
+  - SQL and object-relational mapping
+  - Data processing
+  - Regression and classification models
+  - Evaluation metrics
+  - Ensemble methods
+  - Basics of NLP
+
+---
 ## PSG College of Technology - **Bachelor of Engineering**
 * Tenure 07/2015 - 05/2019
 * CGPA: 8.95
@@ -72,6 +87,8 @@ use-site-title: false
 * Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
 * Guide: Dr Karthikeyan P
 * Mini-project: Intelligent Anti-theft system for two wheelers
+* Some important courses covered:
+  - 
 
 ---
 ## PKD Matric Hr. Sec. SChool - **High School**
