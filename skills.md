@@ -29,7 +29,7 @@ subtitle: Things I have learnt and still learning. Striving steadily to master a
 #### Deep Learning Frameworks
 > Pytorch, Tensorflow 1, Tensorflow 2.0
 
-#### Wed Deployment Frameworks
+#### Web Deployment Frameworks
 > Flask, Rshiny, Dash, Streamlit
 
 #### Data Vizualization
