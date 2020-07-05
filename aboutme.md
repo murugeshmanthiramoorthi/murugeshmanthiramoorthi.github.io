@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who am I?
+title: About me
 # cover-img: '/assets/img/cover/rsz_about.jpg'
 use-site-title: false
 
