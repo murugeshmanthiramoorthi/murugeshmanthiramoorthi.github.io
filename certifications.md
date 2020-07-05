@@ -66,201 +66,154 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 ### [01. Tools for Data Science](https://www.coursera.org/account/accomplishments/records/GXRN73WYPDJ6){:target="_blank"}
 > Coursera
 
- - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
-
 ---
 ### [02. Opeartion Analytics](https://www.coursera.org/account/accomplishments/records/F8AS9WN6LPBT){:target="_blank"}
 > Coursera
-
- - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
-
 
 ---
 ### [03. Natural Language Processing in Tensorflow](https://www.coursera.org/account/accomplishments/records/862647KGLB3R){:target="_blank"}
 > Coursera
 
+
+---
+### [04. Supply Chain Management: A learning Perspective](https://www.coursera.org/account/accomplishments/records/3AUMPQ57LT7A){:target="_blank"}
+> Coursera
+
  - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
 
 ---
-### [04. Supply Chain Management: A learning Perspective](https://www.coursera.org/account/accomplishments/records/3AUMPQ57LT7A){:target="_blank"}
-
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
-
-<p align="center">
-<img src="/assets/img/cert/cour/04.jpg" width="300">
-</p>
-
----
 ### [05. Convolutional Neural Network in Tensorflow](https://www.coursera.org/account/accomplishments/records/ZTDZRAZ5PH9Y){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/05.jpg" width="300">
-</p>
 
 ---
 ### [06. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/records/CDTCC4RVASMZ){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/06.jpg" width="300">
-</p>
 
 ---
 ### [07. Sequences, Time Series and Prediction](https://www.coursera.org/account/accomplishments/records/4GN6FAWBM5ZF){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/07.jpg" width="300">
-</p>
 
 ---
 ### [08. Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/account/accomplishments/records/RQQDDMXRH4T4){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/08.jpg" width="300">
-</p>
 
 ---
 ### [09. Structuring Machine Learning projects](https://www.coursera.org/account/accomplishments/records/XZ85C6KNGJ8L){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/09.jpg" width="300">
-</p>
 
 ---
 ### [10. Introduction to Applied Machine Learning](https://www.coursera.org/account/accomplishments/records/Z9WRZNDEQUAE){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/10.jpg" width="300">
-</p>
 
 ---
 ### [11. Data Visualization with Advanced Excel](https://www.coursera.org/account/accomplishments/records/WN2HYSDTZX6V){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/11.jpg" width="300">
-</p>
 
 ---
 ### [12. Machine Learning: Classification](https://www.coursera.org/account/accomplishments/records/YGADL9XFARL6){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/12.jpg" width="300">
-</p>
 
 ---
 ### [13. Supply Chain Analytics Essentials](https://www.coursera.org/account/accomplishments/records/9WUC53E34BWM){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/13.jpg" width="300">
-</p>
 
 ---
 ### [14. Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/records/C7JRQKJXF8KS){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/14.jpg" width="300">
-</p>
 
 ---
 ### [15. Machine Learning: Regression](https://www.coursera.org/account/accomplishments/records/DG4MNGW5PJBH){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/15.jpg" width="300">
-</p>
 
 ---
 ### [16. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/records/HF4WASC8JB8Y){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/16.jpg" width="300">
-</p>
 
 ---
 ### [17. Machine Learning: Clustering & Retrieval](https://www.coursera.org/account/accomplishments/records/BKWY5E6R9D3F){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/17.jpg" width="300">
-</p>
 
 ---
 ### [18. Getting started with SAS Programming](https://www.coursera.org/account/accomplishments/records/DDUW2JYNRM9Q){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/18.jpg" width="300">
-</p>
 
 ---
 ### [19. Doing more with SAS Programming](https://www.coursera.org/account/accomplishments/records/YU8U4JLF4RD2){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/19.jpg" width="300">
-</p>
 
 ---
 ### [20. Intro to Tensorflow](https://www.coursera.org/account/accomplishments/records/AXDNQQEFBDQE){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/20.jpg" width="300">
-</p>
 
 ---
 ### [21. Launching into machine Learning](https://www.coursera.org/account/accomplishments/records/XMALFCW49B2A){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/21.jpg" width="300">
-</p>
 
 ---
 ### [22. Introduction to Augmented Reality and ARCore](https://www.coursera.org/account/accomplishments/records/TBKJNXBZ438L){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/22.jpg" width="300">
-</p>
 
 ---
 ### [23. How Google does Machine Learning](https://www.coursera.org/account/accomplishments/records/BW3QM7RZXKLB){:target="_blank"}
+> Coursera
 
->Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
+ - Here I learnt about supply chain analytics, how the operatiojnsrae designed and how analytics is done. they also covered some if ots appctaions.
 
-<p align="center">
-<img src="/assets/img/cert/cour/23.jpg" width="300">
-</p>
 
 ---
 ### [24. Convolutional Neural Networks](https://www.coursera.org/account/accomplishments/records/PQTJAJ9PG5SK){:target="_blank"}
