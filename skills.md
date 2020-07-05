@@ -9,15 +9,6 @@ subtitle: Things I have learnt and still learning. Striving steadily to become a
 
 ---
 
-ul.list {
-  width: 300px;  
-}
-
-ul.list li{
-  display:inline-block;
-  width: 100px;
-}
-
 <ul "display:inline-block">
   <li>தமிழ்</li>
   <li>English</li>
