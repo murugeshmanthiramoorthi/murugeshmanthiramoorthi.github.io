@@ -519,7 +519,12 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
-### 93. Sentiment Analysis with Deep Learning using BERT
+### [93. Sentiment Analysis with Deep Learning using BERT](https://www.coursera.org/account/accomplishments/records/GCGZTSQFY22Q){:target="_blank"}
+> Coursera
+
+
+---
+### [94. Cloud Computing Basics (Cloud 101)](https://www.coursera.org/account/accomplishments/records/9HDPAHNDEYEP){:target="_blank"}
 > Coursera
 
 
