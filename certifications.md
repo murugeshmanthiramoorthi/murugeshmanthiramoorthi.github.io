@@ -548,11 +548,8 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
-### 04. Lean Sis Sigma White Belt
+### 04. Lean Six Sigma White Belt
 > Management and Strategy Institute
 
 
----
-
-## WORKSHOPS
 ---
