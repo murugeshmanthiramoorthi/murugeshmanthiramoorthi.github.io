@@ -38,13 +38,13 @@ css: "assets/css/aboutme.css"
 
 ---
 ## Winner - Paper Conferral Synergy 19.0 - **March 2019**
-**TITLE OF PRESENTATION**: Design and Analysis of Multi-layered Hydrogen Storage Tank
+**TITLE OF PRESENTATION**: Design and Analysis of Multi-layered Hydrogen Tank
 **PROVIDED BY**: Department of Electrical and Electronics Engineering, GCE-Salem
 > Synergy 19.0 is an annual national level technical symposium organized by Department of Electrical and Electronics Engineering, Government College of Engineering - Salem. The event having its location at the center of the state, attracted enormous number of students participating in the events. It was a very tedious task competing with all those talented persons. The judges were very interactive and have brought life to the event. It was a pride moment that our team have won the competition with both high quality and high quantity crowd. 
 
 ---
 ## Winner - Paper Presntation Wootz'10 - **March 2019**
-**TITLE OF PRESENTATION**: Design and Analysis of Multi-layered Hydrogen Storage Tank
+**TITLE OF PRESENTATION**: Design and Analysis of Multi-layered Hydrogen Tank
 **PROVIDED BY**: Department of Metallurgical Engineering, PSG College of Technology
 > WOOTZ is an annual summit organized by Department of Metallurgical Engineering, PSG College of Technology and Indian Institute of Metals, Coimbatore Chapter. Many events are conducted every year ranging from workshops to paper presentations. My project team and I participated in the Paper Presentation event and won first position in it. WE worked really hard for many days to get ourselves familiarize with the metallurgical concepts.  We are really honored to be a winner at the prestigious event. 
 
