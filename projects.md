@@ -16,7 +16,7 @@ if((you=="beginner) and (done_this==False)):
 # All Projects
 ---
 #### Quora Duplicate Question prediction
-* repeated questions are one of the greatest complications of Quora. It leads to confusion and poor reach
+* Repeated questions are one of the greatest complications of Quora. It leads to confusion and poor reach
 * I processed the data using TF-IDF vectorizer and fit the model on various classification models
 * Conventional logistic regression seem to give better solutions
 TOOLS USED: Sklearn, pandas, numpy
