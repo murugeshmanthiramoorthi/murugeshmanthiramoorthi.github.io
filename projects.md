@@ -121,3 +121,9 @@ TOOLS USED: Solidworks, ANSYS
 TOOLS USED: Arduino UNO R3
 
 ---
+#### Customer Churn Prediction
+* Exploed the data to detremine the significant features among the given features
+* Model is fit using classification methods and the results are compared
+TOOLS USED: Sklearn, pandas, numpy, matplotlib, seaborn
+
+---
