@@ -4,7 +4,7 @@ title: Projects
 
 ---
 
-Here you can check all of my pet projects which allowed to me experiment with the knowledge acquired though various MOOCs and books.I have updated some of them here. 
+Here you can check all of my pet projects which allowed me to experiment with the knowledge acquired though various MOOCs and books.I have updated some of them here. 
 
 ```python
 if((you=="beginner) and (done_this==False)):
