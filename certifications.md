@@ -529,6 +529,11 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
+### [95. Sit less, get active](https://www.coursera.org/account/accomplishments/records/GE8JSS5Y9JJW){:target="_blank"}
+> Coursera
+
+
+---
 
 ## SKILL TRAINING
 
