@@ -2,7 +2,7 @@
 layout: post
 title: Why should you choose France?
 subtitle: by Murugesh Manthiramoorthi
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/blog/france.png
 tags: [france, higher_education]
 comments: true
 ---
