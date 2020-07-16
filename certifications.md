@@ -539,7 +539,7 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
-### [96. Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/CK4Z7UHQZ2DY){:target="_blank"}
+### [97. Data Science Math Skills](https://www.coursera.org/account/accomplishments/verify/CK4Z7UHQZ2DY){:target="_blank"}
 > Coursera
 
 
