@@ -534,6 +534,11 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
+### [96. Introduction to Personal Branding](https://www.coursera.org/account/accomplishments/verify/2CTL4SX6BG59){:target="_blank"}
+> Coursera
+
+
+---
 
 ## SKILL TRAINING
 
