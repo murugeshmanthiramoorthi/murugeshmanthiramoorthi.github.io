@@ -544,6 +544,11 @@ This is going to be a little looooooong scroll😜. Please bear with me.
 
 
 ---
+### [98. Brand and Product Management](https://www.coursera.org/account/accomplishments/verify/FC5DE3PZRMH2){:target="_blank"}
+> Coursera
+
+
+---
 
 ## SKILL TRAINING
 
