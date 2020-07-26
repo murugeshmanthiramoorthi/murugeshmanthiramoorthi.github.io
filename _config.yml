@@ -13,7 +13,7 @@ author: Murugesh Manthiramoorthi
 
 navbar-links:
   About Me: "aboutme"
-  Projects: "projects"
+#   Projects: "projects"
   Blog: "blog"
   Accomplishments: "accomplishments"
   Other links:
