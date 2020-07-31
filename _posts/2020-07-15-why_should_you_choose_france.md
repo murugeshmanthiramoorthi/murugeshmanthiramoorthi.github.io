@@ -76,7 +76,7 @@ Station F is the largest start up Campus in the whole world. It houses more than
 
 I wish you all the best for your education abroad or in France. Please let me know if you any questions. I will try my best to get it done. 
 
-Connect with me on [LinkedIN](https://www.linkedin.com/in/murugesh-manthiramoorthi/) or mail me at [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/murugesh-manthiramoorthi/) or mail me at [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
 
 # Sources:
 * https://in.ambafrance.org/Study-in-France-12461
