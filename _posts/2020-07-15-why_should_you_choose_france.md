@@ -7,7 +7,7 @@ tags: [france, higher_education]
 comments: true
 ---
 
-Bonjour. In this article, I will be sharing my personal opinion on why I chose France for my higher education. Though I had an admit before my graduation 2019 along with some worthy scholarship, I was not able to make it to the University because of multiple unforseen reasons. Then after my graduation, I again started my research for my PG. But this time, the serach was intensive, unbiased and wide.
+Bonjour. In this article, I will be sharing my personal opinion on why I chose France for my higher education. Though I had an admit before my graduation 2019 along with some worthy scholarship, I was not able to make it to the University because of multiple unforeseen reasons. Then after my graduation, I again started my research for my PG. But this time, the search was intensive, unbiased and wide.
 
 # AGENDA
 * Top 5 reasons to study in France
