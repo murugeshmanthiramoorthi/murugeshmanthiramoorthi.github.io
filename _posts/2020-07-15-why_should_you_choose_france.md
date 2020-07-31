@@ -52,5 +52,29 @@ Station F is the largest start up Campus in the whole world. It houses more than
 * Amba-Dalmia Scholarship 
 * And more scholarships specific to schools and programs
 
+# Additional perks of studying in France
 
+01. All students both European and non-european students who are less than 26 years of age and staying on a rented place are eligible for CAF(caisse d’allocations familiales). It is a housing allowance which repays upto 40% of the student's rent. This would very much lessen the burden on students.
+
+02. All students are entitled to get annual passes in most of the governmet services. Most modes of transportations, cinemas, museums are covered under this passes.
+
+03. With a french student ID card, you can access all the library contents throught France.
+
+04. Work life balance at French is stricly followed. People need not work overtime. And an annural summer vacation will be given to all of the French employees. The duration varies depending on the company and location.
+
+# Some of the important points to be considered before choosing an University or Business School
+
+* Renowned professors and research centres
+* Return on Investment
+* Diversity of student population
+* Fees and others expenses you can manage
+* Economic stability and legal policy changes of the country
+* Rankings and global reputation
+* Specialization(Some schools are the best for specific subjects but are not in any ranking)
+* Alumni network
+* Student safety
+
+I wish you all the best for your education abroad or in France. Please let me know if you any questions. I will try my best to get it done. 
+
+Connect with me on (LinkedIN)[https://www.linkedin.com/in/murugesh-manthiramoorthi/] 
 
