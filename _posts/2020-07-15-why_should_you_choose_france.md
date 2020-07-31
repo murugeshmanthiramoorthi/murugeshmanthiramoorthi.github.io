@@ -25,3 +25,32 @@ On the other hand, if you want to get a rich expertise even before graduating fr
 Additionally, you have an option to graduate from dual degrees if you choose some specialization in the respective schools. The areas od specializations are huge and a dual degree would definitely add value to your profile and gives you an edge over others in the pool. 
 
 ## 02. Most comfortable post-study benefits
+France established mutual recognition of degrees with India. This is the first of it's kind in the whole world. 
+Students enjoy 2 yrs of post study visa to search for jobs or entrepreneurial activities. In addition to this, they also get 5 yrs of business visa for 5 yrs. This includes whole of the Schengen region. With this multiple entry Schengen visa, they can stay in any Schengen region for 90 days and return to India for next 90 days. And the process can be repeated. This would be very much useful for someone willing to expand their business in Europe. 
+
+## 03. Quality education at the most affordable fee
+In top University ranking 2020, the number 1 position in mathematics is occupied by Université Paris Saclay. It would be a dream for many. But they may wonder how much it's fee could be as it is ranked higher than MIT. But fee for an undergraduate program there is just 170 euros and that for a master's programme is 243 euros. Government institutions in France are highly affordable and simultaneously providing quality education. 
+
+Grande école is a highly selective group of institutions in France. Fee is slightly higher in those schools but sto58 manageable. It doesn't make us pay loan debt for another 30 yrs. Hec Paris, the number 1 place to study marketing has a little higher fee. But their roi is not negotiable at all. 
+
+## 04. Multi culture and language
+French is the official language in 30 different countries spread across 5 different continents. French international community is a perfect mix of diverse students. You will stay out of your comfort zone which paves way for your growth. Knowing an additional Language is always helpful in your research, business and humanitarian activities. 
+
+For example, in insead 2020 cohort contains students from 88 different countries. Such an awesome class. Think about it. 
+
+## 05. Cutting edge station F
+Station F is the largest start up Campus in the whole world. It houses more than 1000 start ups, 40 VC and 4 mentorship offices under a single roof. Nearly 600 events are conducted there every year. If you have a compelling idea that can change the world or solve a problem, you have a place here. They also introduced fighter program which is a free one year program designed for people from disadvantaged background. 
+
+# SCHOLARSHIPS TO STUDY IN FRANCE
+
+* Eiffel Scholarship
+* Charpak Scholarship
+* Erasmus+ Mobility Scholarship
+* UGAM Legrand Scholarship
+* Shikhar Thales Scholarship
+* Bahman Samandari Scholarship
+* Amba-Dalmia Scholarship 
+* And more scholarships specific to schools and programs
+
+
+
