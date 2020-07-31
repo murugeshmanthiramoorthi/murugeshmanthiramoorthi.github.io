@@ -31,7 +31,7 @@ Students enjoy 2 yrs of post study visa to search for jobs or entrepreneurial ac
 ## 03. Quality education at the most affordable fee
 In top University ranking 2020, the number 1 position in mathematics is occupied by Université Paris Saclay. It would be a dream for many. But they may wonder how much it's fee could be as it is ranked higher than MIT. But fee for an undergraduate program there is just 170 euros and that for a master's programme is 243 euros. Government institutions in France are highly affordable and simultaneously providing quality education. 
 
-Grande école is a highly selective group of institutions in France. Fee is slightly higher in those schools but sto58 manageable. It doesn't make us pay loan debt for another 30 yrs. Hec Paris, the number 1 place to study marketing has a little higher fee. But their roi is not negotiable at all. 
+Grande école is a highly selective group of institutions in France. Fee is slightly higher in those schools but still manageable. It doesn't make us pay loan debt for another 30 yrs. Hec Paris, the number 1 place to study marketing has a little higher fee. But their ROI is not negotiable at all. 
 
 ## 04. Multi culture and language
 French is the official language in 30 different countries spread across 5 different continents. French international community is a perfect mix of diverse students. You will stay out of your comfort zone which paves way for your growth. Knowing an additional Language is always helpful in your research, business and humanitarian activities. 
