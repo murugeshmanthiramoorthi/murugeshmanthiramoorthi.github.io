@@ -78,3 +78,12 @@ I wish you all the best for your education abroad or in France. Please let me kn
 
 Connect with me on [LinkedIN](https://www.linkedin.com/in/murugesh-manthiramoorthi/) or mail me at [murugesh.tbs@outlook.com](mailto:murugesh.tbs@outlook.com)
 
+# Sources:
+* https://in.ambafrance.org/Study-in-France-12461
+* https://www.universite-paris-saclay.fr/en/admission-help/tuition-fees
+* https://www.topuniversities.com/business-masters-rankings/2020
+* https://www.insead.edu/master-programmes/mba
+* https://stationf.co/
+* https://www.inde.campusfrance.org/scholarships-for-indian-students
+* https://www.slideshare.net/MurugeshM11/high-studies-oppurtunities-in-france
+
