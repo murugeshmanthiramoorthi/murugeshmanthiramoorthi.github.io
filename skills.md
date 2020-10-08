@@ -36,7 +36,10 @@ subtitle: Things I have learnt and still learning. Striving steadily to master a
 > Matplotlib, seaborn, plotly, ggplot2
 
 #### Version Control
-> Github, docker
+> Github, bitbucket
+
+#### Content Management System
+> Docker
 
 #### Cloud Technologies
 > GCP, Pivotal web services, Heroku, ngrok
