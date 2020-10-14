@@ -22,7 +22,7 @@ use-site-title: false
 ---
 ## OpenGenus Foundation - **Machine Learning Developer**
 01/2020 - 04/2020
-> OpenGenus Foundation is an open-source non-profit organization with the aim to enable people to work offline for a longer stretch, reduce the time spent on searching by exploiting the fact that almost 90% of the searches are same for every generation and to make programming more accessible. OpenGenus is all about positivity and innovation. 
+> OpenGenus Foundation is an open-source non-profit organization with the aim to enable people to work offline for a longer stretch. OpenGenus is all about positivity and innovation. 
 
 * Researched various ways how Neural Networks are being fooled in Computer Vision field
 * Explored various possibilities to prevent these state of techs from being fooled
@@ -41,7 +41,7 @@ use-site-title: false
 
 ## Baja Bhais - **Captain & Powertrain Lead**
 09/2016 - 05/2019
-> Baja Bhais is a team of undergraduate students from PSG College of technology. BAJA BHAIS represents PSG College of Technology in SAE BAJA event conducted annually in NATRIP facility, Pithampur, Madhya Pradesh. Innovation and perseverance of our team enriched with practical skills, have always paved our way in the quest to perfect our ATV design. Dreaming of building the best ATV in the world, we are constantly looking for new avenues like lighter materials, design optimizations and advanced manufacturing processes to maximize performance and durability.
+> Baja Bhais is a team of undergraduate students from PSG College of technology. BAJA BHAIS represents PSG College of Technology in SAE BAJA event conducted annually in NATRIP facility, Pithampur, Madhya Pradesh.
 
 * Lead a team of 25 highly skilled students throughout the entire Product Life Cycle of the All-Terrain Vehicle
 * Designed the vehicle through numerous iterations to reach optimum design
@@ -77,7 +77,7 @@ use-site-title: false
 ---
 ## PSG College of Technology - **Bachelor of Engineering**
 07/2015 - 05/2019
-> PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. The institution provides high quality education ranging from bachelor level to advanced doctrates across a wide category. The institution has trained some of the finest researchers and professionals.
+> PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. 
 
 * CGPA: 8.95
 * Major: Automobile Engineering
@@ -94,11 +94,5 @@ use-site-title: false
   - Manufacturing process
   - Metrology and quality engineering
   - Production planning
-
----
-## PKD Matric Hr. Sec. School - **High School**
-06/2013 - 04/2015
-* Percentage: 96.6%
-* Major: Mathematics and Biology
 
 ---
