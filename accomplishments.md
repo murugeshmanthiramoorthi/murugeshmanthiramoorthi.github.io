@@ -8,6 +8,23 @@ css: "assets/css/aboutme.css"
 ---
 
 ---
+## Charpak AME Scholarship of Excellence - **July 2020**
+**PROVIDED BY**: French Government
+> Highly meritorious students are awarded with this prestigious scholarship to support their education.
+> It involves a reduction of 5000 Euros in tution fee.
+> It also includes a monthly grant of 700 Euros to support our stay in France.
+> Additionally the scholarship holders are also given preference to find an accomodation in state run Residences.
+> A waiver of EEF and CVEC is also given.
+> On top of all, they will be awarded the title of "French Government Scholarship Holder".
+
+
+---
+## TBS Merit Scholarship - **January 2020**
+**PROVIDED BY**: Toulouse Business School
+> Merit scholarship worth 10 % of total tution fee is granted to support the meritorious students. The scholarship is provied to a few potential students to minize their burden. 
+
+
+---
 ## INTEL Edge AI Scholarship - **December 2019**
 **PROVIDED BY**: Intel & Udacity
 > The scholarship is to help students build and deploy AI models at edge. Students are taught to leverage the potential of edge computing OPENVINO toolkit to fast-track deployment of high-performance computer vision models. Edge computing is projected to have great influence in the way we live. The scholarship is to promote students to use and deploy innovative concepts. A vibrant community of aspiring and mature AI engineers are brought under a common roof under this scholarship through Slack platform. I feel really honored to be part of the community. A little step out of my comfort zone.
