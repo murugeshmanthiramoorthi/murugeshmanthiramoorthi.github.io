@@ -33,7 +33,7 @@ subtitle: Things I have learnt and still learning. Striving steadily to master a
 > Flask, Rshiny, Dash, Streamlit
 
 #### Data Vizualization
-> Matplotlib, seaborn, plotly, ggplot2
+> Tableau, Matplotlib, seaborn, plotly, ggplot2
 
 #### Version Control
 > Github, bitbucket
