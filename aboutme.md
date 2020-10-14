@@ -10,8 +10,8 @@ use-site-title: false
 # WORK EXPERIENCE
 
 ---
-## bitsCrunch - **Data Science Intern**
-04/2020 - present
+## bitsCrunch - **Data Scientist**
+04/2020 - 08/2020
 > A data analytics firm based in Germany which builds data-driven AI products along with various other services such as Big Data Consulting, Web Development, Social Media Analytics, Digital Marketing and DevOps Consulting. 
 
 * Big Data Consulting, Web Development, DevOps Consulting
@@ -20,7 +20,7 @@ use-site-title: false
 * Collected and analysed complex datasets using advanced querying for training and testing
 
 ---
-## OpenGenus Foundation - **Machine Learning Developer Intern**
+## OpenGenus Foundation - **Machine Learning Developer**
 01/2020 - 04/2020
 > OpenGenus Foundation is an open-source non-profit organization with the aim to enable people to work offline for a longer stretch, reduce the time spent on searching by exploiting the fact that almost 90% of the searches are same for every generation and to make programming more accessible. OpenGenus is all about positivity and innovation. 
 
@@ -62,20 +62,17 @@ use-site-title: false
 # EDUCATION
 
 ---
-## World Quant University - **Continuing Education**
-01/2020 - 06/2020
-> WorldQuant University is an international not-for-profit advancing global education in data sciences.
+## Toulouse Business School - **Master of Science**
+09/2020 - Present
+> Toulouse Business School founded in 1903, holds the triple accreditation AACSB/EQUIS/AMBA. It falls under the Top 10 Business Schools in France and Top 50 Business Schools in Europe.  
 
-* Grade: Honors
-* Major: Data Science
+* Major: Big Data, Marketing, and Management
 * Some courses covered:
-  - Data structures and algorithms
-  - SQL and object-relational mapping
-  - Data processing
-  - Regression and classification models
-  - Evaluation metrics
-  - Ensemble methods
-  - Basics of NLP
+  - Data-driven Business & Society
+  - Big Data Analytics
+  - Consumer Behaviour
+  - Data-driven Marketing
+  - Big Data Programming
 
 ---
 ## PSG College of Technology - **Bachelor of Engineering**
