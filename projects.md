@@ -13,7 +13,40 @@ if((you=="beginner) and (done_this==False)):
 ```
 ---
 
-# All Projects
+# Featured Projects
+---
+#### Walton Analytics - Product Performance and Consumer Behavior Dashboard
+* Merged data from different possible sources, cleaned the data and enriched it using Tableau Prep Builder
+* Performed cohort analysis on the sales data to track the movement and flow of customers between differenmt quarters
+* Perfomed RFM analysis to segment the customers into 5 different categories based on the managerial comfort and explored their overall profile
+* Computed Customer Lifetime Value of all the customers and projevcted it to next 6 years based on the consumer behavior and their churn rate
+* TOOLS USED: Tableau Desktop, Tableau Prep Builder, RStudio
+
+---
+#### Embracing Subcultures - The success of Burger King
+* Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
+* Researched the different kinds of subcultures they have utilized and the response among their customers
+* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
+* TOOLS USED: Google Sheets, Google Slides
+
+---
+#### Baker's Database Analysis for HR
+* Developed SQL queries for the requirements by HR from an employee database of 7 different tables and arouns 3 million entries
+* Derived insights from the extracted data using Tableau Desktop to provide recommendations to the HR
+* Provided recommendations to improve employee retainment in the company 
+* TOOLS USED: MySQL Workbench, Tableau Desktop
+
+---
+
+# Other Projects
+---
+#### CDiscount - Data Vizualization
+* Cleaned and enriched the dataset using Tableau Prep Builder
+* Compared the sales trend of CDiscount in France with other countries
+* Explored the data, found the profit generating products and loss creating products
+* Followed almost all the data visualization principles to obtain clutter free, clear data viz
+* TOOLS USED: Tableau Desktop, Tableau Prep Builder
+
 ---
 #### Quora Duplicate Question prediction
 * Repeated questions are one of the greatest complications of Quora. It leads to confusion and poor reach
@@ -22,31 +55,11 @@ if((you=="beginner) and (done_this==False)):
 * TOOLS USED: Sklearn, pandas, numpy
 
 ---
-#### Design and Analysis of Hydrogen Propelled Mobility Vehicle
-* A parallel hybrid two wheeler powered by both Li polymer battery with a rated capacity of 20Ah (based on our requirement) and PEMFC has been modeled with custom designed chassis, suspension, brakes and storage tank. 
-* Material for each component has been chosen from numerous analysis of the components’ solid model. 
-* Pedal force, brake force distribution, stopping distance and brake power are calculated theoretically. 
-* With a fixed wheel base of 1.32m and load distribution calculated based on brake power, all the suspension parameters such as motion ratio, corner weight, wheel rate, spring rate are calculated. 
-* These parameters are optimized using MS Excel and Matlab Simulink. 
-* The chassis body dimensions and cross sections are chosen based on Taguchi method. 
-* Real effort has been taken to measure the real dimensions of the chassis based on the ergonomic comfort of many persons of distributed age and size.
-* TOOLS USED: Soliworks, ANSYS, Minitab, Matlab Simulink, MS Excel
-
----
 #### Whatsapp Frequent Chat analysis
 * Developed a model which can analyze whatsapp chats and deliver us valuable insights
 * Determined the frequently used words, most active days and most active time of the day
 * Working on determining the sentiment of chat and predicting the relationship based on the chat
 * TOOLS USED: Sklearn, pandas, numpy, matplotlib
-
----
-#### Design and Analysis of on-board high pressure compressed hydrogen storage tank
-* After finalizing the hybrid vehicle architecture and storage pressure of 700 bar, power required to propel a payload of 180 kg was calculated. 
-* Comparing the heat of combustion of hydrogen and the energy needed to be produced, the mass of hydrogen required is calculated to be 1.2 kg. 
-* Volume of hydrogen required is calculated and compared by Ideal gas equation, van Der Wall’s equation and generalized comparability chart. 
-* A triple composite layer tank is chosen with specific dimensions after numerous iterations on ANSYS. 
-* Finally, analytical simulation of burst test, crush test is carried out on the final model to ensure its endurance
-* TOOLS USED: Soliworks, ANSYS, Matlab Simulink, MS Excel
 
 ---
 #### Heart disease prediction
@@ -97,6 +110,12 @@ if((you=="beginner) and (done_this==False)):
 * TOOLS USED: dplyr, ggplot2
 
 ---
+#### Customer Churn Prediction
+* Exploed the data to detremine the significant features among the given features
+* Model is fit using classification methods and the results are compared
+* TOOLS USED: Sklearn, pandas, numpy, matplotlib, seaborn
+
+---
 #### Design of Front and Rear Suspension Geometry for All-terrain vehicles
 * Unequal Unparallel double wishbone system and H arm with camber link suspension system has been for Front and Rear Suspension Geometry respectively based on the design considerations
 * The system is designed using Solidworks and is analysed using ANSYS and MATLAB
@@ -121,9 +140,23 @@ if((you=="beginner) and (done_this==False)):
 * TOOLS USED: Arduino UNO R3
 
 ---
-#### Customer Churn Prediction
-* Exploed the data to detremine the significant features among the given features
-* Model is fit using classification methods and the results are compared
-* TOOLS USED: Sklearn, pandas, numpy, matplotlib, seaborn
+#### Design and Analysis of Hydrogen Propelled Mobility Vehicle
+* A parallel hybrid two wheeler powered by both Li polymer battery with a rated capacity of 20Ah (based on our requirement) and PEMFC has been modeled with custom designed chassis, suspension, brakes and storage tank. 
+* Material for each component has been chosen from numerous analysis of the components’ solid model. 
+* Pedal force, brake force distribution, stopping distance and brake power are calculated theoretically. 
+* With a fixed wheel base of 1.32m and load distribution calculated based on brake power, all the suspension parameters such as motion ratio, corner weight, wheel rate, spring rate are calculated. 
+* These parameters are optimized using MS Excel and Matlab Simulink. 
+* The chassis body dimensions and cross sections are chosen based on Taguchi method. 
+* Real effort has been taken to measure the real dimensions of the chassis based on the ergonomic comfort of many persons of distributed age and size.
+* TOOLS USED: Soliworks, ANSYS, Minitab, Matlab Simulink, MS Excel
+
+---
+#### Design and Analysis of on-board high pressure compressed hydrogen storage tank
+* After finalizing the hybrid vehicle architecture and storage pressure of 700 bar, power required to propel a payload of 180 kg was calculated. 
+* Comparing the heat of combustion of hydrogen and the energy needed to be produced, the mass of hydrogen required is calculated to be 1.2 kg. 
+* Volume of hydrogen required is calculated and compared by Ideal gas equation, van Der Wall’s equation and generalized comparability chart. 
+* A triple composite layer tank is chosen with specific dimensions after numerous iterations on ANSYS. 
+* Finally, analytical simulation of burst test, crush test is carried out on the final model to ensure its endurance
+* TOOLS USED: Soliworks, ANSYS, Matlab Simulink, MS Excel
 
 ---
