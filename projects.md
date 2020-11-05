@@ -15,7 +15,8 @@ Here you can check all of my pet projects which allowed me to experiment with th
 * Performed cohort analysis on the sales data to track the movement and flow of customers between differenmt quarters
 * Perfomed RFM analysis to segment the customers into 5 different categories based on the managerial comfort and explored their overall profile
 * Computed Customer Lifetime Value of all the customers and projevcted it to next 6 years based on the consumer behavior and their churn rate
-\n **TOOLS USED**: Tableau Desktop, Tableau Prep Builder, RStudio
+
+**TOOLS USED**: Tableau Desktop, Tableau Prep Builder, RStudio
 
 ---
 #### Embracing Subcultures - The success of Burger King
