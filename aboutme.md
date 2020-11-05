@@ -7,6 +7,45 @@ use-site-title: false
 
 ---
 
+# EDUCATION
+
+---
+## Toulouse Business School - **Master of Science**
+09/2020 - Present
+> Toulouse Business School founded in 1903, holds the triple accreditation AACSB/EQUIS/AMBA. It falls under the Top 10 Business Schools in France and Top 50 Business Schools in Europe.  
+
+* Major: Big Data, Marketing, and Management
+* Some courses covered:
+  - Data-driven Business & Society
+  - Big Data Analytics
+  - Data Visualization
+  - Consumer Behaviour
+  - Data-driven Marketing
+  - New Marketing Innovation
+  - Big Data Programming
+
+---
+## PSG College of Technology - **Bachelor of Engineering**
+07/2015 - 05/2019
+> PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. 
+
+* CGPA: 8.95
+* Major: Automobile Engineering
+* Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
+* Guide: Dr Karthikeyan P
+* Some important courses covered:
+  - Electric, hybrid and fuel cell vehicles
+  - Design for manufacture and assembly
+  - Dynamics of machineries
+  - Engineering design
+  - Engineering mechanics
+  - Lean Methods for Automobile engineers
+  - Manufacturing process
+  - Metrology and quality engineering
+  - Production planning
+
+---
+
 # WORK EXPERIENCE
 
 ---
@@ -56,43 +95,5 @@ use-site-title: false
 * Overall All India Ranking 9th out of over 500 teams registered
 * Completed the Endurance run in 10th position (FLAGSHIP EVENT)
 * One of the very few teams to complete the event without any mechanical failures
-
----
-
-# EDUCATION
-
----
-## Toulouse Business School - **Master of Science**
-09/2020 - Present
-> Toulouse Business School founded in 1903, holds the triple accreditation AACSB/EQUIS/AMBA. It falls under the Top 10 Business Schools in France and Top 50 Business Schools in Europe.  
-
-* Major: Big Data, Marketing, and Management
-* Some courses covered:
-  - Data-driven Business & Society
-  - Big Data Analytics
-  - Consumer Behaviour
-  - Data-driven Marketing
-  - Big Data Programming
-
----
-## PSG College of Technology - **Bachelor of Engineering**
-07/2015 - 05/2019
-> PSG College of Technology is an autonomous, government aided, private engineering college in Coimbatore, India. It is affiliated with Anna University.It is ranked as the 24th best engineering college in India according to NIRF ranking 2016 by MHRD, India. 
-
-* CGPA: 8.95
-* Major: Automobile Engineering
-* Thesis: Design and Analysis of Hydrogen Powered Mobility Vehicle
-* Guide: Dr Karthikeyan P
-* Mini-project: Intelligent Anti-theft system for two wheelers
-* Some important courses covered:
-  - Electric, hybrid and fuel cell vehicles
-  - Design for manufacture and assembly
-  - Dynamics of machineries
-  - Engineering design
-  - Engineering mechanics
-  - Lean Methods for Automobile engineers
-  - Manufacturing process
-  - Metrology and quality engineering
-  - Production planning
 
 ---
