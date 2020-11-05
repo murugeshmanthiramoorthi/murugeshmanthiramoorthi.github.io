@@ -22,15 +22,15 @@ Here you can check all of my pet projects which allowed me to experiment with th
 #### Embracing Subcultures - The success of Burger King
 * Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
 * Researched the different kinds of subcultures they have utilized and the response among their customers
-* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
+* Developed different methodologies on how they would have utilized the power of big data to perform these tasks  
 **TOOLS USED**: Google Sheets, Google Slides
 
 ---
 #### Baker's Database Analysis for HR
 * Developed SQL queries for the requirements by HR from an employee database of 7 different tables and arouns 3 million entries
 * Derived insights from the extracted data using Tableau Desktop to provide recommendations to the HR
-* Provided recommendations to improve employee retainment in the company 
-* TOOLS USED: MySQL Workbench, Tableau Desktop
+* Provided recommendations to improve employee retainment in the company  
+**TOOLS USED**: MySQL Workbench, Tableau Desktop
 
 ---
 
