@@ -10,6 +10,39 @@ Here you can check all of my pet projects which allowed me to experiment with th
 
 # Featured Projects
 ---
+
+#### Musée d'Orsay and Musée de l'Orangerie - Data Vizualization Challenge
+* Combined data from various resources, cleaned them and enriched them using various tools abnd techniques
+* Analysed the cleaned data to find lot of useful trens abd patterns to recommend solutions and improvements
+* Performed web scraping of Trip Advisor reviews to observe what people speak about Musée d'Orsay and Musée de l'Orangerie
+
+**TOOLS USED**: Tableau Desktop, Tableau Prep, RStudio, Jupyter Notebook, MS Excel
+
+---
+
+#### Netflix Recommendation System
+* Developed a movie recommendation system for Netflix in R using two different approaches (User-Based Collobarative Filtering and Matrix Factorization)
+* Evaluated the performance of two recommendation systems using ROC Curve and accuracy
+* Built prototypes of the recommendation systems using R shiny with a convenient User Interface
+
+**TOOLS USED**: R, RStudio, Tableau Desktop
+
+---
+
+#### Embracing Subcultures - The success of Burger King
+* Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
+* Researched the different kinds of subcultures they have utilized and the response among their customers
+* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
+
+**TOOLS USED**: Google Sheets, Google Slides
+
+---
+
+
+# Other Projects
+---
+
+
 #### Walton Analytics - Product Performance and Consumer Behavior Dashboard
 * Merged data from different possible sources, cleaned the data and enriched it using Tableau Prep Builder
 * Performed cohort analysis on the sales data to track the movement and flow of customers between differenmt quarters
@@ -19,14 +52,6 @@ Here you can check all of my pet projects which allowed me to experiment with th
 **TOOLS USED**: Tableau Desktop, Tableau Prep Builder, RStudio
 
 ---
-#### Embracing Subcultures - The success of Burger King
-* Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
-* Researched the different kinds of subcultures they have utilized and the response among their customers
-* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
-
-**TOOLS USED**: Google Sheets, Google Slides
-
----
 #### Baker's Database Analysis for HR
 * Developed SQL queries for the requirements by HR from an employee database of 7 different tables and arouns 3 million entries
 * Derived insights from the extracted data using Tableau Desktop to provide recommendations to the HR
@@ -34,9 +59,6 @@ Here you can check all of my pet projects which allowed me to experiment with th
 
 **TOOLS USED**: MySQL Workbench, Tableau Desktop
 
----
-
-# Other Projects
 ---
 #### CDiscount - Data Vizualization
 * Cleaned and enriched the dataset using Tableau Prep Builder
