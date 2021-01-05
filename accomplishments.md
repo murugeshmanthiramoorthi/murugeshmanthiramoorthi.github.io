@@ -8,6 +8,12 @@ css: "assets/css/aboutme.css"
 ---
 
 ---
+## TBS-DataViz Challenge 2020 - Winner - **December 2020**
+**PROVIDED BY**: Musée d'Orsay and Musée de l'Orangerie
+> The challenge was conducted in partnership with Musée d'Orsay and Musée de l'Orangerie. The challenge took place for 2 months with multiple weekly meetings. We used different tools like R studio, Jupyter notebook, tableau and tableau prep for the project. The amount of learning during this project is excellent. We learnt how to understand a real business scenario, interact with clients, define a business problem, apply data visualization principles and recommend creative solutions.
+
+
+---
 ## Charpak AME Scholarship of Excellence - **July 2020**
 **PROVIDED BY**: French Government
 > Highly meritorious students are awarded with this prestigious scholarship to support their education.
