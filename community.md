@@ -16,7 +16,6 @@ css: '/css/main.css'
 * Conduct guest lectures and webinars to keep them updated
 * Initiate activities to promote development of students
 * Organize National and International conferences to get familiarize with global Automotive growth
-* I am awesome[here](#automobile-engineering-association)
 
 #### Events Organized:
 * Project Management using PLM
