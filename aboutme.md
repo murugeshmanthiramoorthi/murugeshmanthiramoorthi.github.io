@@ -2,7 +2,7 @@
 layout: page
 title: About me
 # cover-img: '/assets/img/cover/rsz_about.jpg'
-subtitle: Get to know more about me by scrolling down
+subtitle: Scroll to know about me!
 use-site-title: false
 
 ---
@@ -18,11 +18,21 @@ use-site-title: false
 * Some courses covered:
   - Data-driven Business & Society
   - Big Data Analytics
-  - Data Visualization
-  - Consumer Behaviour
+  - Business Intelligence & Data Visualization
+  - Understanding Consumer Behavior
   - Data-driven Marketing
   - New Marketing Innovation
   - Big Data Programming
+  - Social Media Analytics
+  - Python for Data Science
+  - Business Statistics, Analytics, and Data Science
+  - Advanced R Programming for Business
+  - Relational Databases & SQL programming
+  - Marketing Analytics
+  - From Data Science to Machine Learning
+  - Design Thinking & Mobile App Development
+  - Digital Innovation
+  - Introduction to Research Methods
 
 ---
 ## PSG College of Technology - **Bachelor of Engineering**
@@ -49,7 +59,7 @@ use-site-title: false
 # WORK EXPERIENCE
 
 ---
-## bitsCrunch - **Data Scientist**
+## [bitsCrunch Technologies Pvt. Ltd.](https://bitscrunch.com/) - **Data Scientist**
 04/2020 - 08/2020
 > A data analytics firm based in Germany which builds data-driven AI products along with various other services such as Big Data Consulting, Web Development, Social Media Analytics, Digital Marketing and DevOps Consulting. 
 
@@ -59,7 +69,7 @@ use-site-title: false
 * Collected and analysed complex datasets using advanced querying for training and testing
 
 ---
-## OpenGenus Foundation - **Machine Learning Developer**
+## [OpenGenus Foundation](https://iq.opengenus.org/) - **Machine Learning Developer**
 01/2020 - 04/2020
 > OpenGenus Foundation is an open-source non-profit organization with the aim to enable people to work offline for a longer stretch. OpenGenus is all about positivity and innovation. 
 
@@ -78,7 +88,7 @@ use-site-title: false
 
 ---
 
-## Baja Bhais - **Captain & Powertrain Lead**
+## [Baja Bhais](https://bajabhais.github.io/) - **Captain & Powertrain Lead**
 09/2016 - 05/2019
 > Baja Bhais is a team of undergraduate students from PSG College of technology. BAJA BHAIS represents PSG College of Technology in SAE BAJA event conducted annually in NATRIP facility, Pithampur, Madhya Pradesh.
 
