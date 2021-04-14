@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Certifications
-subtitle: "I am a MOOC Lover. But I don't share certificates on LinkedIn."
+subtitle: "I love challenges and I love to test myself."
 css: '/css/main.css'
 
 ---
-
-This is going to be a little looooooong scroll😜. Please bear with me.
 
 ## KEY CERTIFICATIONS
 
