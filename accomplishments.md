@@ -8,6 +8,17 @@ css: "assets/css/aboutme.css"
 ---
 
 ---
+## Preludd Data Challenge 2021 - Runner - **March 2021**
+**PROVIDED BY**: Preludd Payment Services
+> Preludd Data Challenge was organised by TBS Education and Preludd Payment Services to identity Alternative Payment profiles (APM) for their merchants. In addition to recommending APMs, our team also developed a python application to get summarised results based on various filters. We secured Second position in the challenge.
+
+---
+## Tableau Desktop Specialist Certification - 97% - **January 2021**
+**PROVIDED BY**: Tableau
+> Tableau Desktop Specialist Certification is a part of the MSc Big Data Marketing and Management program at TBS Education. After weeks of preparation and months of training, I gave my exam on 24th January 2021 and achieved a near perfect score of 97%
+
+
+---
 ## TBS-DataViz Challenge 2020 - Winner - **December 2020**
 **PROVIDED BY**: Musée d'Orsay and Musée de l'Orangerie
 > The challenge was conducted in partnership with Musée d'Orsay and Musée de l'Orangerie. The challenge took place for 2 months with multiple weekly meetings. We used different tools like R studio, Jupyter notebook, tableau and tableau prep for the project. The amount of learning during this project is excellent. We learnt how to understand a real business scenario, interact with clients, define a business problem, apply data visualization principles and recommend creative solutions.
