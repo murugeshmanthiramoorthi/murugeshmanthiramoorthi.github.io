@@ -11,6 +11,16 @@ Here you can check all of my pet projects which allowed me to experiment with th
 # Featured Projects
 ---
 
+#### Preludd Data Challenge
+* Analyzed and categorized customers based on their transactional behavior and demographic factors into different payment profiles
+* Built real-time dashboards to explain current payment profiles and recommend Alternative Payments Methods as part of Digital Transformation 
+* Developed a python application to view the summary of the transactions data based on the selected filters
+
+**TOOLS USED**: Jupyter Notebook, Python, Dataiku DSS, Tableau Desktop, Streamlit
+
+![Projects](/assets/img/projects/preludd.png "Preludd Data Challenge")
+
+---
 #### Musée d'Orsay and Musée de l'Orangerie - Data Vizualization Challenge
 * Combined data from various resources, cleaned them and enriched them using various tools abnd techniques
 * Analysed the cleaned data to find lot of useful trens abd patterns to recommend solutions and improvements
@@ -18,10 +28,9 @@ Here you can check all of my pet projects which allowed me to experiment with th
 
 **TOOLS USED**: Tableau Desktop, Tableau Prep, RStudio, Jupyter Notebook, MS Excel
 
-![Automobile Engineering Association](/assets/img/projects/musee.png "Musée d'Orsay and Musée de l'Orangerie - Data Vizualization Challenge")
+![Projects](/assets/img/projects/musee.png "Musée d'Orsay and Musée de l'Orangerie - Data Vizualization Challenge")
 
 ---
-
 #### Netflix Recommendation System
 * Developed a movie recommendation system for Netflix in R using two different approaches (User-Based Collobarative Filtering and Matrix Factorization)
 * Evaluated the performance of two recommendation systems using ROC Curve and accuracy
@@ -29,17 +38,9 @@ Here you can check all of my pet projects which allowed me to experiment with th
 
 **TOOLS USED**: R, RStudio, Tableau Desktop
 
----
-
-#### Embracing Subcultures - The success of Burger King
-* Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
-* Researched the different kinds of subcultures they have utilized and the response among their customers
-* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
-
-**TOOLS USED**: Google Sheets, Google Slides
+![Projects](/assets/img/projects/netflix.png "Netflix Recommendation System")
 
 ---
-
 
 # Other Projects
 ---
@@ -69,6 +70,14 @@ Here you can check all of my pet projects which allowed me to experiment with th
 * Followed almost all the data visualization principles to obtain clutter free, clear data viz
 
 **TOOLS USED**: Tableau Desktop, Tableau Prep Builder
+
+---
+#### Embracing Subcultures - The success of Burger King
+* Performed a case study on the series of marketing campaigns by Burger King over years embracing the subcultures existing within their customer profiles
+* Researched the different kinds of subcultures they have utilized and the response among their customers
+* Developed different methodologies on how they would have utilized the power of big data to perform these tasks
+
+**TOOLS USED**: Google Sheets, Google Slides
 
 ---
 #### Quora Duplicate Question prediction
