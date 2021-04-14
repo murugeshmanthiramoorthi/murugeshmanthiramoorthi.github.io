@@ -13,7 +13,7 @@ css: '/css/main.css'
 > Tableau
 
 ---
-### [02. Core Designer Certificate](https://verify.skilljar.com/c/vaniqkq47av8){:target="_blank"}
+### [02. Dataiku Core Designer Certificate](https://verify.skilljar.com/c/vaniqkq47av8){:target="_blank"}
 > Dataiku Academy
 
 ## SPECIALIZATION/TRACKS
