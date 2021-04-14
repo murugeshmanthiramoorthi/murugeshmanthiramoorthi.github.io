@@ -18,6 +18,8 @@ Here you can check all of my pet projects which allowed me to experiment with th
 
 **TOOLS USED**: Tableau Desktop, Tableau Prep, RStudio, Jupyter Notebook, MS Excel
 
+![Automobile Engineering Association](/assets/img/projects/musee.png "Musée d'Orsay and Musée de l'Orangerie - Data Vizualization Challenge")
+
 ---
 
 #### Netflix Recommendation System
