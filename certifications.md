@@ -8,6 +8,16 @@ css: '/css/main.css'
 
 This is going to be a little looooooong scroll😜. Please bear with me.
 
+## KEY CERTIFICATIONS
+
+---
+### [01. Tableau Desktop Specialist](https://www.credly.com/badges/b867a713-d585-46d5-ad5b-652f1e746f2d){:target="_blank"}
+> Tableau
+
+---
+### [02. Core Designer Certificate](https://verify.skilljar.com/c/vaniqkq47av8){:target="_blank"}
+> Dataiku Academy
+
 ## SPECIALIZATION/TRACKS
 
 ---
