@@ -2,7 +2,7 @@
 layout: page
 title: About me
 # cover-img: '/assets/img/cover/rsz_about.jpg'
-subtitle: Scroll to know about me!
+subtitle: Scroll to know about my experiences and educational qualifications!
 use-site-title: false
 
 ---
@@ -13,12 +13,11 @@ use-site-title: false
 ---
 ## [Murmuration - FlockEO.com](https://murmuration-sas.com/en/homepage) - **Data Scientist**
 05/2021 - present
-> A data analytics firm based in Germany which builds data-driven AI products along with various other services such as Big Data Consulting, Web Development, Social Media Analytics, Digital Marketing and DevOps Consulting. 
+> A company which delivers B2B and consulting services in the domains of Tourism, GreenTech and Renewable energies. We combine satellite earth observation data, environmental data, and open data to derive environmental impact indicators. The exponential growth of the touristic activities and the emerging middle class around the world are putting significant environmental pressure on popular destinations. Evaluating this environmental pressure is usually of interest to travelers and decision makers.
 
-* Big Data Consulting, Web Development, DevOps Consulting
-* Performed market research to identify and analyse the different use cases of businesses
-* Worked and Fine-tuned Transformer models
-* Collected and analysed complex datasets using advanced querying for training and testing
+* Geospatial data analysis, data processing, trend detection
+* Analysing tourism trends in various global economy and recommending suggestions in city and country levels
+* social media analytics to know the trends and public opinion
 
 ---
 ## [bitsCrunch Technologies Pvt. Ltd.](https://bitscrunch.com/) - **Data Scientist**
