@@ -16,10 +16,10 @@ navbar-links:
   Projects: "projects"
 #   Blog: "blog"
   Accomplishments: "accomplishments"
-  Other links:
+#   Other links:
 #   - Skills: "skills"
-   - Community: "community"
-   - Certifications: "certifications"
+  Community: "community"
+  Certifications: "certifications"
 
 paginate_path: "/blog/page:num/"
 
@@ -88,7 +88,7 @@ excerpt_length: 50
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-border-col: "#EAEAEA"
-page-col: "#FF9896"
+page-col: "#FFFFFF"
 link-col: "##FAACAC"
 hover-col: "#f75c5c"
 footer-col: "#F5F5F5"
