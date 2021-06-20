@@ -1,6 +1,7 @@
 ---
 layout: page
 show-avatar: true
+use-site-title: false
 css: '/css/main.css'
 ---
 
