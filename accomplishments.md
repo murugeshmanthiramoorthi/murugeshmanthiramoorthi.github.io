@@ -2,8 +2,8 @@
 layout: page
 title: Accomplishments
 subtitle: "Achievements differ us from others"
-cover-img: '/assets/img/cover/accomplishments.jpg'
-use-site-title: false
+<!-- cover-img: '/assets/img/cover/accomplishments.jpg' -->
+use-site-title: true
 css: "assets/css/aboutme.css"
 ---
 
