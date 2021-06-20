@@ -17,7 +17,7 @@ use-site-title: false
 
 * Geospatial data analysis, data processing, trend detection
 * Analysing tourism trends in various global economy and recommending suggestions in city and country levels
-* social media analytics to know the trends and public opinion
+* Social media analytics to know the trends and public opinion
 
 ---
 ## [bitsCrunch Technologies Pvt. Ltd.](https://bitscrunch.com/) - **Data Scientist**
