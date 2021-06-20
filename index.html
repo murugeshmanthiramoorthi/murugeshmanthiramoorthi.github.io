@@ -21,6 +21,52 @@ p {
     text-align: center;
 }
   </style>
+    
+<style>
+body{background:black;
+margin-top:200px;
+margin-left:50px;}
+#typing {
+
+            width: 0ch;
+            color: white;
+            float: left;
+            font-family: sans-serif;
+            font-weight:bold;
+            font-size: 60px;
+            overflow: hidden;
+            white-space: nowrap;
+            animation: typing 5s steps(22) 1s infinite alternate;
+        }
+        #typing span{
+        color:red;}
+
+        #crow {
+            float: left;
+
+      color: white;
+            font-family: consolas;
+            font-weight:bold;
+            font-size: 60px;
+            animation: crow 0.5s linear 0s infinite;
+        }
+        @keyframes typing {
+            from {
+                width: 0ch;
+            }
+            to {
+                width: 25ch;
+            }
+        }
+        @keyframes crow {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+</style>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
 <script>
@@ -89,7 +135,10 @@ With the world getting filled with digital natives and society becoming more dat
     <span id="sentence" class="sentence">Here, take this </span>
     <span id="feature-text"></span>
     <span class="input-cursor"></span>
-  </div>
+</div>
+    
+<div id="typing">I AM A <span>WEB DESIGNER</span></div>
+<div id="crow">|</div>
 <!-- <iframe src="https://public.tableau.com/app/profile/murugesh.manthiramoorthi/viz/Final_presentation_16056473623940/Dashboard1?:showVizHome=no&:embed=true"
  width="1200" height="955"></iframe> -->
 <h3 style="font-size:30px; text-align: left">Key Skills:</h3><br>
