@@ -20,146 +20,9 @@ css: '/css/main.css'
 p {
     text-align: center;
 }
-  </style>
-    
-<style>
-body{margin-top:200px;
-margin-left:50px;}
-#typing {
-
-            width: 0ch;
-            color: black;
-            float: left;
-            font-family: sans-serif;
-            font-weight:bold;
-            font-size: 20px;
-            overflow: hidden;
-            white-space: nowrap;
-            animation: typing 5s steps(22) 1s infinite alternate;
-        }
-        #typing span{
-        color:red;}
-
-        #crow {
-            float: left;
-
-      color: white;
-            font-family: consolas;
-            font-weight:bold;
-            font-size: 20px;
-            animation: crow 0.5s linear 0s infinite;
-        }
-        @keyframes typing {
-            from {
-                width: 0ch;
-            }
-            to {
-                width: 25ch;
-            }
-        }
-        @keyframes crow {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-        }
 </style>
+
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<script>
-const typedTextSpan = document.querySelector(".typed-text");
-const cursorSpan = document.querySelector(".cursor");
-
-const textArray = ["hard", "fun", "a journey", "LIFE"];
-const typingDelay = 200;
-const erasingDelay = 100;
-const newTextDelay = 2000; // Delay between current and next text
-let textArrayIndex = 0;
-let charIndex = 0;
-
-function type() {
-  if (charIndex < textArray[textArrayIndex].length) {
-    if(!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
-    typedTextSpan.textContent += textArray[textArrayIndex].charAt(charIndex);
-    charIndex++;
-    setTimeout(type, typingDelay);
-  } 
-  else {
-    cursorSpan.classList.remove("typing");
-  	setTimeout(erase, newTextDelay);
-  }
-}
-
-function erase() {
-	if (charIndex > 0) {
-    if(!cursorSpan.classList.contains("typing")) cursorSpan.classList.add("typing");
-    typedTextSpan.textContent = textArray[textArrayIndex].substring(0, charIndex-1);
-    charIndex--;
-    setTimeout(erase, erasingDelay);
-  } 
-  else {
-    cursorSpan.classList.remove("typing");
-    textArrayIndex++;
-    if(textArrayIndex>=textArray.length) textArrayIndex=0;
-    setTimeout(type, typingDelay + 1100);
-  }
-}
-
-document.addEventListener("DOMContentLoaded", function() { // On DOM Load initiate the effect
-  if(textArray.length) setTimeout(type, newTextDelay + 250);
-});
-</script>
-    
-<style>
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
-
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-body {
-  font-family: 'Montserrat', sans-serif;
-  background-color: #fff;
-  color: #eee;
-}
-.container {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.container p {
-  font-size: 3rem;
-  padding: 0.5rem;
-  font-weight: bold;
-  letter-spacing: 0.1rem;
-  text-align: center;
-  overflow: hidden;
-}
-.container p span.typed-text {
-  font-weight: normal;
-  color: #dd7732;
-}
-.container p span.cursor {
-  display: inline-block;
-  background-color: #ccc;
-  margin-left: 0.1rem;
-  width: 3px;
-  animation: blink 1s infinite;
-}
-.container p span.cursor.typing {
-  animation: none;
-}
-@keyframes blink {
-  0%  { background-color: #ccc; }
-  49% { background-color: #ccc; }
-  50% { background-color: transparent; }
-  99% { background-color: transparent; }
-  100%  { background-color: #ccc; }
-}
-</style>
 </head>
 <body>
   
@@ -167,20 +30,7 @@ body {
 <p style="font-size:18px; text-align: justify">  
 With the world getting filled with digital natives and society becoming more data-driven, an equal ratio of business understanding, programming, and statistics are required. Coming from the core engineering field, starting a career in the IT sector, and completing a master's in a techno-management program, I have developed a hybrid profile to work. With the plethora of Data talents available, I stand out with my versatile nature and a bunch of real-time projects. Over time, I learned that a person's efficiency depends on how effectively he/she manages available time. Keeping this in mind, I always utilize my time productively balanced between personal and professional attires. 
 </p><br>
-  
-<div class="typing-container">
-    <span id="sentence" class="sentence">Here, take this </span>
-    <span id="feature-text"></span>
-    <span class="input-cursor"></span>
-</div>
-    
-<div id="typing">I am a <span>Data Scientist at Murmuration - FlockEO.com</span></div>
-<div id="crow">|</div><br>
-<br>
-    
-<div class="container">
-    <p>I am a <span class="typed-text"></span><span class="cursor">&nbsp;</span></p>
-</div>
+
 <!-- <iframe src="https://public.tableau.com/app/profile/murugesh.manthiramoorthi/viz/Final_presentation_16056473623940/Dashboard1?:showVizHome=no&:embed=true"
  width="1200" height="955"></iframe> -->
 <h3 style="font-size:30px; text-align: left">Key Skills:</h3><br>
