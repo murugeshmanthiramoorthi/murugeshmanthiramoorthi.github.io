@@ -18,7 +18,7 @@ navbar-links:
   Accomplishments: "accomplishments"
 #   Other links:
 #   - Skills: "skills"
-  Community: "community"
+  Communities: "community"
   Certifications: "certifications"
 
 paginate_path: "/blog/page:num/"
