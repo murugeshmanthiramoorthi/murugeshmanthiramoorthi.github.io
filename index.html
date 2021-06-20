@@ -23,6 +23,60 @@ p {
   </style>
 <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 
+<script>
+const carouselText = [
+  {text: "Apple", color: "red"},
+  {text: "Orange", color: "orange"},
+  {text: "Lemon", color: "yellow"}
+]
+
+$( document ).ready(async function() {
+  carousel(carouselText, "#feature-text")
+});
+
+async function typeSentence(sentence, eleRef, delay = 100) {
+  const letters = sentence.split("");
+  let i = 0;
+  while(i < letters.length) {
+    await waitForMs(delay);
+    $(eleRef).append(letters[i]);
+    i++
+  }
+  return;
+}
+
+async function deleteSentence(eleRef) {
+  const sentence = $(eleRef).html();
+  const letters = sentence.split("");
+  let i = 0;
+  while(letters.length > 0) {
+    await waitForMs(100);
+    letters.pop();
+    $(eleRef).html(letters.join(""));
+  }
+}
+
+async function carousel(carouselList, eleRef) {
+    var i = 0;
+    while(true) {
+      updateFontColor(eleRef, carouselList[i].color)
+      await typeSentence(carouselList[i].text, eleRef);
+      await waitForMs(1500);
+      await deleteSentence(eleRef);
+      await waitForMs(500);
+      i++
+      if(i >= carouselList.length) {i = 0;}
+    }
+}
+
+function updateFontColor(eleRef, color) {
+  $(eleRef).css('color', color);
+}
+
+function waitForMs(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms))
+}
+</script>
 </head>
 <body>
   
@@ -30,7 +84,12 @@ p {
 <p style="font-size:18px; text-align: justify">  
 With the world getting filled with digital natives and society becoming more data-driven, an equal ratio of business understanding, programming, and statistics are required. Coming from the core engineering field, starting a career in the IT sector, and completing a master's in a techno-management program, I have developed a hybrid profile to work. With the plethora of Data talents available, I stand out with my versatile nature and a bunch of real-time projects. Over time, I learned that a person's efficiency depends on how effectively he/she manages available time. Keeping this in mind, I always utilize my time productively balanced between personal and professional attires. 
 </p><br>
-    
+  
+<div class="typing-container">
+    <span id="sentence" class="sentence">Here, take this </span>
+    <span id="feature-text"></span>
+    <span class="input-cursor"></span>
+  </div>
 <!-- <iframe src="https://public.tableau.com/app/profile/murugesh.manthiramoorthi/viz/Final_presentation_16056473623940/Dashboard1?:showVizHome=no&:embed=true"
  width="1200" height="955"></iframe> -->
 <h3 style="font-size:30px; text-align: left">Key Skills:</h3><br>
