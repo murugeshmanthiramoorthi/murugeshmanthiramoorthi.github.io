@@ -11,6 +11,16 @@ use-site-title: false
 # WORK EXPERIENCE
 
 ---
+## [Murmuration - FlockEO.com](https://murmuration-sas.com/en/homepage) - **Data Scientist**
+05/2021 - present
+> A data analytics firm based in Germany which builds data-driven AI products along with various other services such as Big Data Consulting, Web Development, Social Media Analytics, Digital Marketing and DevOps Consulting. 
+
+* Big Data Consulting, Web Development, DevOps Consulting
+* Performed market research to identify and analyse the different use cases of businesses
+* Worked and Fine-tuned Transformer models
+* Collected and analysed complex datasets using advanced querying for training and testing
+
+---
 ## [bitsCrunch Technologies Pvt. Ltd.](https://bitscrunch.com/) - **Data Scientist**
 04/2020 - 08/2020
 > A data analytics firm based in Germany which builds data-driven AI products along with various other services such as Big Data Consulting, Web Development, Social Media Analytics, Digital Marketing and DevOps Consulting. 
